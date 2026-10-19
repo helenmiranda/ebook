@@ -1,4 +1,4 @@
-# Oferta: Do medo ao prato, 14 dias
+# Oferta: Introdução Alimentar sem Medo, 14 dias
 
 **Base:** o painel de consumidoras e o CFO ainda não rodaram. Usei as dúvidas do perfil (`customer.json`), as condições do conselho e o que a Giovana observou. Os custos abaixo são estimativas de esforço, não números do CFO, e o reteste no painel ficou pendente.
 
@@ -61,7 +61,7 @@ Inclui: guia de segurança, rotina de preparo e congelamento, 14 dias de cardáp
 
 **Urgência e escassez:** nenhuma por enquanto. Só vale se houver uma turma com data de início e vagas limitadas para acompanhamento, e aí tem que ser verdade.
 
-**Nome da oferta:** "Do medo ao prato: 14 dias". Se quiser teste de nome, outras opções: "Primeira semana sem medo" (para o guia grátis) e "Comida de casa em 14 dias".
+**Nome da oferta:** "Introdução Alimentar sem Medo: 14 dias", com "Dinda Nutri" como marca. O nome diz o tema e a dor, usa o termo que as mães buscam e não promete que o bebê vai comer. Linha de apoio para anúncios: "Comida de casa para o seu bebê, com segurança e sem complicação." Guia grátis: "Primeira semana da introdução alimentar sem medo". O nome anterior, "Introdução Alimentar sem Medo", foi trocado por não indicar que o público é de bebês.
 
 ## 4. Equação de valor (1 a 10)
 
