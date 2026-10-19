@@ -66,3 +66,27 @@ um **plano de 14 dias "Do medo ao prato"**, com:
 - Pagaria por um plano de 14 dias? Quanto?
 
 **Condição nova:** definir por que alguém compraria da Dinda Nutri e não do BLW Brasil. Sugestão: porque ela resolve o medo e a rotina, não só entrega receitas.
+
+---
+
+# Revisão 2: a prova que existe
+
+**O que aconteceu:** a Giovana mandou as comidas da Cecília para amigas, e as crianças comeram, sem nenhuma técnica especial. O que mudou foi a forma de apresentar e o sabor.
+
+**O que isso diz:**
+- O diferencial possível deixa de ser "informação" e passa a ser **aceitação**: comida que a criança come. É algo difícil de copiar e que os concorrentes de receitas não provam.
+- O ativo da Dinda Nutri passa a ser o **jeito da Giovana** (apresentação, sabor, textura, tempero). Ainda não está escrito em lugar nenhum, e é isso que precisa virar produto.
+
+**O que isso ainda não diz:**
+- São poucas crianças, amigas da Giovana, sem medição. Pode haver viés de gentileza e curiosidade.
+- Não mostra se funciona com quem não conhece vocês, nem se os pais conseguem repetir sozinhos, sem a comida pronta.
+- Mandar comida pronta é diferente de ensinar a fazer. Não escalem a entrega de comida pronta sem a Dilienda avaliar armazenamento e segurança, e sem checar as regras sanitárias.
+
+**Como transformar em prova (teste de 2 a 3 semanas, custo quase zero):**
+1. Registrar o método: o que a Giovana faz de diferente em apresentação, textura e tempero. Escrever em passos.
+2. Escolher 5 a 8 receitas e testar em 15 a 20 crianças de fora do círculo próximo, com receita enviada para os pais prepararem em casa.
+3. Medir: quantas comeram, quanto comeram, o que os pais tiveram dificuldade de fazer. Pedir foto ou vídeo curto, com autorização.
+4. Calcular a taxa de aceitação (por exemplo, "14 de 18 crianças comeram"). Se ficar alta, vira a frase central de venda: "receitas testadas e aprovadas por bebês".
+5. Só depois disso, pré-venda do plano de 14 dias.
+
+**Efeito na avaliação:** o conselho mantém "financiar se", e a confiança na hipótese sobe um pouco. A nota só muda se o teste de aceitação confirmar. A linha de venda possível passa a ser: **"Comida que o bebê aceita, e que você consegue fazer."**
