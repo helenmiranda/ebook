@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Eu salvo um monte de receita de BLW e travo na hora de fazer, então um cardápio pronto com lista de compras e o jeito de congelar me ajuda de verdade. Por R$ 24,90 com devolução, não pesa no bolso.",
-  "objection": "Já tem muita coisa grátis na internet, e eu não sei se isso é diferente do que já salvo no Instagram. Também quero ver o que a nutricionista é de verdade antes de confiar.",
-  "would_change_my_mind": "Ver uma amostra grátis (um dia do cardápio ou o guia ânsia ou engasgo) e mães do meu grupo dizendo que usaram e funcionou.",
-  "price_too_cheap": 7,
-  "price_cheap": 17,
-  "price_expensive": 45,
-  "price_too_expensive": 79
+  "reason": "Com o segundo filho eu quero fazer diferente e eu travo na hora de fazer, entao R$ 24,90 com amostra gratis, CRN da nutricionista e garantia de 7 dias eu arrisco. So compro se a amostra de 'anzia ou engasgo' me convencer.",
+  "objection": "Vou usar so por poucos meses e ja salvo tanta coisa no Instagram que nao faco. Tenho medo de pagar e travar do mesmo jeito.",
+  "would_change_my_mind": "Se a amostra gratis fosse generica ou sem o registro profissional visivel, eu nao compraria.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 69
 }

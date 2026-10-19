@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu pergunto tudo no grupo de mães e já tem muita coisa grátis na internet. Com R$ 24,90 eu não ia pagar sem saber se outras mães do grupo usaram e aprovaram.",
+  "objection": "Já tem muita coisa grátis na internet e no grupo das mães. Não sei se esse programa é melhor do que isso, e não conheço ninguém que tenha comprado.",
+  "would_change_my_mind": "Várias mães do meu grupo de WhatsApp dizerem que compraram e que ajudou de verdade, ou uma amostra grátis (um dia do cardápio e o guia ânsia ou engasgo) para eu ver a qualidade.",
+  "price_too_cheap": 7,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

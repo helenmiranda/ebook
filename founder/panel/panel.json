@@ -14,32 +14,32 @@
     "name": "Mãe de primeira viagem, trabalha fora",
     "share": 0.4,
     "income": [
-     3000,
-     8000
+     36000,
+     96000
     ]
    },
    {
     "name": "Mãe de primeira viagem, em casa ou meio período",
     "share": 0.3,
     "income": [
-     1800,
-     5000
+     21600,
+     60000
     ]
    },
    {
     "name": "Mãe com segundo filho, quer fazer diferente",
     "share": 0.15,
     "income": [
-     3000,
-     9000
+     36000,
+     108000
     ]
    },
    {
     "name": "Pai ou casal que divide a cozinha",
     "share": 0.15,
     "income": [
-     4000,
-     12000
+     48000,
+     144000
     ]
    }
   ],
@@ -94,8 +94,9 @@
    "você salva receitas no Instagram, mas na hora de cozinhar acaba abrindo um sachê",
    "você pergunta tudo no grupo de mães do WhatsApp",
    "você já ficou com medo no meio da refeição quando o bebê fez uma careta ou tossiu",
-   "você cozinha no fim de semana e tem pouco espaço no freezer"
+   "você cozinha no fim de semana e tem pouco espaço no freezer",
+   "você tem pouco espaço no freezer e pouco tempo para cozinhar"
   ]
  },
- "pitch": "Dinda Nutri, \"Introdução Alimentar sem Medo: 14 dias\": programa online para começar a introdução alimentar do seu bebê com segurança, pelo celular.\nGuia de segurança revisado por nutricionista, rotina para cozinhar uma vez e congelar, cardápio de 14 dias com lista de compras e receitas em vídeo curto.\nBônus: guia de bolso \"ânsia ou engasgo?\", mapa para sair da papinha industrial e folha da casa para avó, babá ou parceiro.\nR$ 24,90, pagamento único. Siga o plano por 7 dias; se não ajudou você a se sentir mais segura e organizada, devolvemos o valor.\nCriado por uma mãe e uma nutricionista."
+ "pitch": "Dinda Nutri, \"Introdução Alimentar sem Medo: 14 dias\": programa online para começar a introdução alimentar do seu bebê com segurança, pelo celular.\nAntes de comprar você vê uma amostra grátis: o guia \"ânsia ou engasgo?\" e um dia do cardápio.\nGuia de segurança revisado pela nutricionista Dilienda, com nome e registro profissional (CRN) na página. Rotina de preparo e congelamento que funciona com pouco espaço no freezer, cardápio de 14 dias com lista de compras e receitas em vídeo curto.\nBônus: mapa para sair da papinha industrial e folha da casa para avó, babá ou parceiro.\nR$ 24,90, pagamento único. Siga o plano por 7 dias; se não ajudou você a se sentir mais segura e organizada, devolvemos o valor.\nCriado por uma mãe e pela nutricionista Dilienda."
 }

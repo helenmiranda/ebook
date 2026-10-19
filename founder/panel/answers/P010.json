@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "trust",
-  "reason": "Tenho medo de engasgo e R$ 24,90 com devolução em 7 dias é pouco risco, e o guia 'ânsia ou engasgo?' é o que eu mais quero. Mas só compro depois de perguntar no grupo das mães se alguém conhece.",
-  "objection": "Já paguei por e-book de maternidade que era genérico e me frustrei. Não sei quem é a nutricionista nem se o conteúdo é confiável de verdade para engasgo.",
-  "would_change_my_mind": "Ver o nome e o registro da nutricionista, uma amostra do guia de engasgo e relato de outras mães que usaram.",
+  "reason": "Eu travo de medo na hora da refeição, e ter uma nutricionista com CRN na página e um guia de ânsia x engasgo me dá segurança. Por R$ 24,90, com amostra grátis e devolução, o risco é pequeno, então eu olho a amostra e provavelmente compro.",
+  "objection": "Já paguei por e-book e curso de maternidade que era genérico e me frustrou, e já tenho receitas salvas. Tenho medo de ser só mais um material que eu abro uma vez e esqueço.",
+  "would_change_my_mind": "Se a amostra grátis (o guia de ânsia ou engasgo) for rasa ou genérica, eu não compro.",
   "price_too_cheap": 9,
   "price_cheap": 19,
-  "price_expensive": 39,
-  "price_too_expensive": 69
+  "price_expensive": 49,
+  "price_too_expensive": 89
 }

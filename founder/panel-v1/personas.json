@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Kai",
+  "age": 37,
+  "segment": "Mãe de primeira viagem, em casa ou meio período",
+  "income": 3000,
+  "behaviour": "Usa app de receitas BLW",
+  "behaviour_how": "Já baixou um aplicativo e não manteve o uso.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você passa o dia entre mamadeira, soneca e trabalho e quase não sobra tempo para cozinhar"
+ },
+ {
+  "id": "P002",
+  "name": "Dev",
+  "age": 40,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 3000,
+  "behaviour": "Pergunta no grupo de mães",
+  "behaviour_how": "Tira dúvidas em grupos de WhatsApp e Facebook antes de decidir.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P003",
+  "name": "Ben",
+  "age": 32,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 3000,
+  "behaviour": "Segue perfis de BLW no Instagram",
+  "behaviour_how": "Salva receitas e vídeos, mas trava na hora de fazer.",
+  "objection": "Tenho medo de engasgo, quero saber se é confiável",
+  "habit": "você salva receitas no Instagram, mas na hora de cozinhar acaba abrindo um sachê"
+ },
+ {
+  "id": "P004",
+  "name": "Tomas",
+  "age": 32,
+  "segment": "Mãe de primeira viagem, em casa ou meio período",
+  "income": 3000,
+  "behaviour": "Caça gratuito",
+  "behaviour_how": "Procura conteúdo grátis, PDF, vídeo, e paga pouco por digital.",
+  "objection": "Tenho medo de engasgo, quero saber se é confiável",
+  "habit": "você passa o dia entre mamadeira, soneca e trabalho e quase não sobra tempo para cozinhar"
+ },
+ {
+  "id": "P005",
+  "name": "Sofia",
+  "age": 40,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 4000,
+  "behaviour": "Segue perfis de BLW no Instagram",
+  "behaviour_how": "Salva receitas e vídeos, mas trava na hora de fazer.",
+  "objection": "Tenho medo de engasgo, quero saber se é confiável",
+  "habit": "você salva receitas no Instagram, mas na hora de cozinhar acaba abrindo um sachê"
+ },
+ {
+  "id": "P006",
+  "name": "Yara",
+  "age": 37,
+  "segment": "Mãe de primeira viagem, em casa ou meio período",
+  "income": 4000,
+  "behaviour": "Segue o pediatra à risca",
+  "behaviour_how": "Só faz o que o pediatra autorizou e desconfia de conteúdo da internet.",
+  "objection": "É caro para algo que vou usar poucos meses",
+  "habit": "você passa o dia entre mamadeira, soneca e trabalho e quase não sobra tempo para cozinhar"
+ },
+ {
+  "id": "P007",
+  "name": "Adrian",
+  "age": 37,
+  "segment": "Mãe com segundo filho, quer fazer diferente",
+  "income": 7000,
+  "behaviour": "Segue perfis de BLW no Instagram",
+  "behaviour_how": "Salva receitas e vídeos, mas trava na hora de fazer.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P008",
+  "name": "Felix",
+  "age": 33,
+  "segment": "Mãe de primeira viagem, em casa ou meio período",
+  "income": 4000,
+  "behaviour": "Usa papinha industrial por praticidade",
+  "behaviour_how": "Compra sachês e potinhos porque tem medo de errar e pouco tempo.",
+  "objection": "Já tenho um aplicativo ou e-book de receitas",
+  "habit": "você já ficou com medo no meio da refeição quando o bebê fez uma careta ou tossiu"
+ },
+ {
+  "id": "P009",
+  "name": "Isla",
+  "age": 31,
+  "segment": "Mãe de primeira viagem, em casa ou meio período",
+  "income": 2000,
+  "behaviour": "Já comprou e-book ou curso de maternidade",
+  "behaviour_how": "Pagou antes, compara, e já se frustrou com algum.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P010",
+  "name": "Beatriz",
+  "age": 35,
+  "segment": "Pai ou casal que divide a cozinha",
+  "income": 7000,
+  "behaviour": "Já comprou e-book ou curso de maternidade",
+  "behaviour_how": "Pagou antes, compara, e já se frustrou com algum.",
+  "objection": "Tenho medo de engasgo, quero saber se é confiável",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P011",
+  "name": "Malik",
+  "age": 38,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 5000,
+  "behaviour": "Segue o pediatra à risca",
+  "behaviour_how": "Só faz o que o pediatra autorizou e desconfia de conteúdo da internet.",
+  "objection": "É caro para algo que vou usar poucos meses",
+  "habit": "você salva receitas no Instagram, mas na hora de cozinhar acaba abrindo um sachê"
+ },
+ {
+  "id": "P012",
+  "name": "Eli",
+  "age": 35,
+  "segment": "Mãe de primeira viagem, em casa ou meio período",
+  "income": 4000,
+  "behaviour": "Caça gratuito",
+  "behaviour_how": "Procura conteúdo grátis, PDF, vídeo, e paga pouco por digital.",
+  "objection": "É caro para algo que vou usar poucos meses",
+  "habit": "você já ficou com medo no meio da refeição quando o bebê fez uma careta ou tossiu"
+ },
+ {
+  "id": "P013",
+  "name": "Aria",
+  "age": 36,
+  "segment": "Pai ou casal que divide a cozinha",
+  "income": 4000,
+  "behaviour": "Pergunta no grupo de mães",
+  "behaviour_how": "Tira dúvidas em grupos de WhatsApp e Facebook antes de decidir.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você passa o dia entre mamadeira, soneca e trabalho e quase não sobra tempo para cozinhar"
+ },
+ {
+  "id": "P014",
+  "name": "Owen",
+  "age": 37,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 4000,
+  "behaviour": "Segue o pediatra à risca",
+  "behaviour_how": "Só faz o que o pediatra autorizou e desconfia de conteúdo da internet.",
+  "objection": "Já tenho um aplicativo ou e-book de receitas",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P015",
+  "name": "Victor",
+  "age": 38,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 3000,
+  "behaviour": "Usa papinha industrial por praticidade",
+  "behaviour_how": "Compra sachês e potinhos porque tem medo de errar e pouco tempo.",
+  "objection": "Quem fez isso? Tem nutricionista ou pediatra por trás?",
+  "habit": "você passa o dia entre mamadeira, soneca e trabalho e quase não sobra tempo para cozinhar"
+ },
+ {
+  "id": "P016",
+  "name": "Seth",
+  "age": 32,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 6000,
+  "behaviour": "Usa app de receitas BLW",
+  "behaviour_how": "Já baixou um aplicativo e não manteve o uso.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P017",
+  "name": "Oscar",
+  "age": 28,
+  "segment": "Mãe de primeira viagem, trabalha fora",
+  "income": 8000,
+  "behaviour": "Segue perfis de BLW no Instagram",
+  "behaviour_how": "Salva receitas e vídeos, mas trava na hora de fazer.",
+  "objection": "Já tem muita coisa grátis na internet",
+  "habit": "você pergunta tudo no grupo de mães do WhatsApp"
+ },
+ {
+  "id": "P018",
+  "name": "Leila",
+  "age": 33,
+  "segment": "Pai ou casal que divide a cozinha",
+  "income": 12000,
+  "behaviour": "Usa papinha industrial por praticidade",
+  "behaviour_how": "Compra sachês e potinhos porque tem medo de errar e pouco tempo.",
+  "objection": "É caro para algo que vou usar poucos meses",
+  "habit": "você cozinha no fim de semana e tem pouco espaço no freezer"
+ },
+ {
+  "id": "P019",
+  "name": "Raj",
+  "age": 29,
+  "segment": "Mãe com segundo filho, quer fazer diferente",
+  "income": 8000,
+  "behaviour": "Usa papinha industrial por praticidade",
+  "behaviour_how": "Compra sachês e potinhos porque tem medo de errar e pouco tempo.",
+  "objection": "Tenho medo de engasgo, quero saber se é confiável",
+  "habit": "você já ficou com medo no meio da refeição quando o bebê fez uma careta ou tossiu"
+ },
+ {
+  "id": "P020",
+  "name": "Mateo",
+  "age": 40,
+  "segment": "Mãe com segundo filho, quer fazer diferente",
+  "income": 8000,
+  "behaviour": "Pergunta no grupo de mães",
+  "behaviour_how": "Tira dúvidas em grupos de WhatsApp e Facebook antes de decidir.",
+  "objection": "Já tenho um aplicativo ou e-book de receitas",
+  "habit": "você salva receitas no Instagram, mas na hora de cozinhar acaba abrindo um sachê"
+ }
+]

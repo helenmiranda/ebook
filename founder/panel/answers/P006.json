@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Eu só sigo o que o pediatra autorizou e não confio em conteúdo da internet, mesmo com nutricionista no nome. Além disso, é dinheiro que faz falta para algo que vou usar poucos meses.",
-  "objection": "O meu pediatra não indicou isso. Não sei se o que ensinam bate com a orientação dele, e não quero arriscar com o meu bebê por causa de um programa online.",
-  "would_change_my_mind": "O pediatra do meu bebê indicar ou aprovar o programa, ou eu poder ver o guia de segurança antes de pagar.",
-  "price_too_cheap": 7,
-  "price_cheap": 14,
-  "price_expensive": 29,
-  "price_too_expensive": 45
+  "reason": "Eu só sigo o que meu pediatra autorizou e já tem muita coisa grátis na internet. Gostei do CRN e da amostra, mas uma nutricionista que eu não conheço não substitui o que o pediatra do meu bebê disse.",
+  "objection": "Não sei se o cardápio bate com o que o meu pediatra recomendou para o meu bebê, e eu não vou arriscar mudar por conta de um programa online.",
+  "would_change_my_mind": "Meu pediatra olhar a amostra e dizer que pode seguir, ou o programa dizer que foi validado por pediatras.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 69
 }

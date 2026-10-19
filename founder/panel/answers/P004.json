@@ -1,13 +1,13 @@
 {
   "id": "P004",
-  "buys": false,
-  "purchases_first_month": 0,
+  "buys": true,
+  "purchases_first_month": 1,
   "reason_code": "trust",
-  "reason": "Eu procuro tudo de graça, tem muito PDF e vídeo grátis de introdução alimentar. Eu até sentiria que R$ 24,90 é pouco, mas com o meu medo de engasgo eu não sei se posso confiar em um programa que eu não conheço.",
-  "objection": "Tenho medo de engasgo e não sei se é confiável. Quem é essa nutricionista? Por que eu pagaria se tem conteúdo grátis e o pediatra do meu bebê pode me orientar?",
-  "would_change_my_mind": "Ver o nome e o registro (CRN) da nutricionista, ver uma amostra grátis do guia de segurança, e opiniões de outras mães reais.",
+  "reason": "Minha primeira pergunta era se tinha nutricionista por trás, e tem: nome e CRN na página. Tenho muito medo de engasgo, e 25 reais com amostra grátis e devolução me parece pouco risco, mas só compro depois de ver a amostra e perguntar no grupo.",
+  "objection": "Já acho muita coisa grátis no Instagram e no YouTube, então tenho receio de pagar por algo que não é tão diferente. Também preciso conferir o CRN e ouvir se outra mãe do grupo já usou.",
+  "would_change_my_mind": "Se a amostra grátis não me ensinar nada que eu já não saiba, ou se ninguém no grupo de mães tiver ouvido falar, eu não compro.",
   "price_too_cheap": 7,
-  "price_cheap": 14,
-  "price_expensive": 29,
-  "price_too_expensive": 49
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 45
 }

@@ -1,13 +1,13 @@
 {
   "id": "P003",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Tenho muito medo de engasgo e hoje acabo abrindo sachê porque não sei me organizar. Por R$ 24,90, com nutricionista e devolução do dinheiro, o risco é pequeno e o 'ânsia ou engasgo?' me interessa de verdade.",
-  "objection": "Tenho medo de engasgo, quero saber se é confiável. Quem é essa nutricionista? E eu salvo tudo e travo na hora de fazer, posso pagar e não seguir os 14 dias.",
-  "would_change_my_mind": "",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu salvo um monte de coisa de BLW no Instagram e depois travo na hora de fazer, então duvido que mais um programa mude isso. E o que eu não sei eu pergunto no grupo de mães do WhatsApp, de graça e na hora.",
+  "objection": "Já tem muita coisa grátis na internet e no grupo de mães, e eu tenho medo de pagar, salvar e não abrir de novo.",
+  "would_change_my_mind": "Ver a amostra grátis e sentir que ela já me tirou do travamento, ou uma mãe do meu grupo do WhatsApp me dizer que usou e conseguiu começar com segurança.",
   "price_too_cheap": 7,
-  "price_cheap": 19,
+  "price_cheap": 15,
   "price_expensive": 39,
   "price_too_expensive": 69
 }

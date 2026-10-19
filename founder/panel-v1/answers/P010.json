@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "Tenho medo de engasgo e R$ 24,90 com devolução em 7 dias é pouco risco, e o guia 'ânsia ou engasgo?' é o que eu mais quero. Mas só compro depois de perguntar no grupo das mães se alguém conhece.",
+  "objection": "Já paguei por e-book de maternidade que era genérico e me frustrei. Não sei quem é a nutricionista nem se o conteúdo é confiável de verdade para engasgo.",
+  "would_change_my_mind": "Ver o nome e o registro da nutricionista, uma amostra do guia de engasgo e relato de outras mães que usaram.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 69
+}
