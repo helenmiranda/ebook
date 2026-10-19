@@ -1,0 +1,37 @@
+{
+  "business": "Dinda Nutri (programa digital Do medo ao prato, de introdução alimentar)",
+  "target": "Mães e pais, 24 a 40 anos, com bebê de 5 a 10 meses começando a introdução alimentar, que têm medo de oferecer comida e não sabem preparar nem guardar",
+  "where": "Brasil, online, pelo celular",
+  "age": [24, 40],
+  "segments": [
+    {"name": "Mãe de primeira viagem, trabalha fora", "share": 0.40, "income": [3000, 8000]},
+    {"name": "Mãe de primeira viagem, em casa ou meio período", "share": 0.30, "income": [1800, 5000]},
+    {"name": "Mãe com segundo filho, quer fazer diferente", "share": 0.15, "income": [3000, 9000]},
+    {"name": "Pai ou casal que divide a cozinha", "share": 0.15, "income": [4000, 12000]}
+  ],
+  "behaviours": [
+    {"name": "Usa papinha industrial por praticidade", "share": 0.22, "how": "Compra sachês e potinhos porque tem medo de errar e pouco tempo."},
+    {"name": "Segue perfis de BLW no Instagram", "share": 0.18, "how": "Salva receitas e vídeos, mas trava na hora de fazer."},
+    {"name": "Pergunta no grupo de mães", "share": 0.16, "how": "Tira dúvidas em grupos de WhatsApp e Facebook antes de decidir."},
+    {"name": "Segue o pediatra à risca", "share": 0.14, "how": "Só faz o que o pediatra autorizou e desconfia de conteúdo da internet."},
+    {"name": "Caça gratuito", "share": 0.12, "how": "Procura conteúdo grátis, PDF, vídeo, e paga pouco por digital."},
+    {"name": "Já comprou e-book ou curso de maternidade", "share": 0.10, "how": "Pagou antes, compara, e já se frustrou com algum."},
+    {"name": "Usa app de receitas BLW", "share": 0.08, "how": "Já baixou um aplicativo e não manteve o uso."}
+  ],
+  "objections": [
+    "Tenho medo de engasgo, quero saber se é confiável",
+    "Quem fez isso? Tem nutricionista ou pediatra por trás?",
+    "Já tem muita coisa grátis na internet",
+    "Meu bebê vai recusar mesmo assim",
+    "Não tenho tempo para cozinhar e congelar",
+    "É caro para algo que vou usar poucos meses",
+    "Já tenho um aplicativo ou e-book de receitas"
+  ],
+  "habits": [
+    "você passa o dia entre mamadeira, soneca e trabalho e quase não sobra tempo para cozinhar",
+    "você salva receitas no Instagram, mas na hora de cozinhar acaba abrindo um sachê",
+    "você pergunta tudo no grupo de mães do WhatsApp",
+    "você já ficou com medo no meio da refeição quando o bebê fez uma careta ou tossiu",
+    "você cozinha no fim de semana e tem pouco espaço no freezer"
+  ]
+}
