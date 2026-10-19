@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "Tem nutricionista com nome e CRN na página, a amostra grátis me deixa ver antes e R$ 24,90 com garantia de 7 dias é pouco risco. Eu salvo tudo e travo, mas um passo a passo pronto com lista de compras me tira da paralisia.",
+  "objection": "Medo de comprar mais um material que eu salvo e não uso, porque não tenho tempo de cozinhar. E preciso confirmar que o CRN da Dilienda é real.",
+  "would_change_my_mind": "Se a amostra grátis não me convencer ou se eu não conseguir conferir o CRN da nutricionista, eu não compro.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 69
+}

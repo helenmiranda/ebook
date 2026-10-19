@@ -80,3 +80,39 @@ A chance percebida é o elo mais fraco. Só sobe de verdade com o teste de aceit
 - **Custo:** CFO ainda não rodou. Falta incluir horas de produção, a taxa do meio de pagamento, a plataforma e a taxa de reembolso para a garantia. Rodar `/founder-cfo`.
 - **Frase "receitas já aceitas por bebês":** saiu da oferta. Só entra depois do teste de aceitação com famílias de fora (hoje há só o caso da Cecília e das amigas da Giovana).
 - **Regras de propaganda em saúde:** a Dilienda deve conferir o que o conselho profissional de nutrição permite em anúncios (resultado garantido, antes e depois, depoimentos). Não é aconselhamento jurídico.
+
+---
+
+# Revisão 3: oferta ajustada com base no painel
+
+Painel simulado de 20 compradoras (`panel-v1` guarda a primeira rodada, a 8 de 20; `panel` guarda a segunda).
+
+## O que mudou na oferta
+1. **Nome e CRN da Dilienda na página.** Confiança era o motivo de 8 das 12 recusas na primeira rodada.
+2. **Amostra grátis antes de comprar:** guia "ânsia ou engasgo?" e um dia do cardápio.
+3. **Plano para pouco espaço no freezer e pouco tempo:** porções pequenas e receitas rápidas do dia.
+4. **Renda corrigida para valores anuais em reais** no perfil do cliente (antes era mensal, o que distorcia fichas e relatórios).
+5. **Não alterado:** preço de R$ 24,90, garantia, bônus e núcleo.
+
+Pitch anterior: `pitch-v2.md`. Pitch atual: `pitch.md`.
+
+## Resultado
+
+| | Rodada 1 | Rodada 2 |
+|---|---|---|
+| Compram | 8 de 20 (40%) | 15 de 20 (75%) |
+| Motivo principal para comprar | necessidade (5) | confiança (14) |
+| Motivo principal para recusar | confiança (8) | confiança (3), hábito (2) |
+| Seguem o pediatra à risca | 0 de 3 compram | 0 de 3 compram |
+
+## Como ler isso, sem se animar demais
+- **A subida está inflada.** Os compradores simulados receberam exatamente o que a rodada anterior pediu para comprar (CRN, amostra, plano de freezer). Eles concordam com facilidade. Trate 75% como teto, e a diferença de 40% para 75% como indício de direção, não de tamanho.
+- **Não é uma comparação limpa.** Mudei a renda e acrescentei uma rotina no perfil, então as fichas sorteadas não são as mesmas. A semente é a mesma, mas as pessoas mudam.
+- **O CRN e a amostra precisam ser verdadeiros e verificáveis.** Vários compradores disseram que conferem o registro e que a amostra precisa ser boa de verdade. Uma amostra fraca ou um registro que não confere derruba a venda.
+- **Quem segue o pediatra à risca continua em 0%.** Confiança nesse grupo vem do pediatra, não da nutricionista. Alternativa: pedir a um pediatra parceiro que revise o guia de segurança e autorize o uso do nome dele. Só entra na oferta quando for verdade.
+- **Hábito é a objeção que restou:** quem trava na hora de cozinhar ou usa papinha por tempo. A resposta está no conteúdo (receitas rápidas, porções pequenas, rotina curta) e na primeira semana de uso, não no texto de venda.
+
+## O que testar com famílias de fora (próximos passos)
+1. Página de venda com nome e CRN da Dilienda e a amostra grátis, e acompanhar quantos pedem a amostra e quantos compram depois.
+2. Convidar um pediatra para revisar o guia de segurança.
+3. Usar o grupo de mães da Giovana e da Dilienda como primeiro canal, com depoimentos autorizados e conferidos pela Dilienda quanto às regras do conselho de nutrição.

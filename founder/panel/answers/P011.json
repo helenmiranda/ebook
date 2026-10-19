@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só faço o que o pediatra autoriza e já tem muita coisa grátis na internet. Gostei de ter nutricionista com CRN, mas um cardápio que não veio do meu pediatra eu não sigo sem perguntar antes.",
+  "objection": "Meu pediatra não indicou esse programa, então como vou saber se o cardápio bate com o que ele autorizou para o meu bebê? Se der errado, o problema é do meu filho, não adianta devolver o dinheiro.",
+  "would_change_my_mind": "Meu pediatra ou outras mães do meu grupo de WhatsApp dizerem que usaram e que está de acordo com o que ele orienta.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 69
+}

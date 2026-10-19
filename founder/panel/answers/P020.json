@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "Tem nutricionista com nome e CRN na página, amostra grátis e garantia de 7 dias, então o risco é baixo. E R$ 24,90 é pouco para tirar o medo no segundo filho.",
+  "objection": "Preciso conferir se a Dilienda e o CRN são reais e perguntar no grupo de mães se alguém já usou. Se ninguém conhecer, fico com o pé atrás.",
+  "would_change_my_mind": "Ninguém no grupo de mães conhecer ou falar bem, ou o CRN não bater no site do conselho.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 49,
+  "price_too_expensive": 89
+}

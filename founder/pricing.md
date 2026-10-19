@@ -52,3 +52,15 @@ Sem o painel não há citações. Dúvidas esperadas, do perfil: "tem muita cois
 
 ## Se o preço mudar
 Atualizar `founder/numbers.json` (preço, taxa e reserva de reembolso, e o ritmo de vendas) e rodar `/founder-cfo` de novo.
+
+---
+
+# Atualização com o painel de 20 compradoras
+
+**Primeira rodada (oferta sem CRN e sem amostra):** faixa de R$ 9 a R$ 40, ponto de indiferença em R$ 19.
+**Segunda rodada (com CRN e amostra grátis):** faixa de **R$ 9 a R$ 49**, ponto de indiferença em **R$ 19**, caro demais acima de cerca de R$ 49. R$ 24,90 e R$ 39,90 ficam dentro da faixa. (A ferramenta imprime "$", mas os valores são em reais.)
+
+- O limite de "caro demais" subiu de R$ 40 para R$ 49 quando a oferta ganhou nome da nutricionista, CRN e amostra. Isso sugere que confiança sustenta preço mais alto. É indício de um painel simulado, não prova.
+- O ponto de indiferença, perto de R$ 19, não mudou. Por isso a abertura de R$ 19,90 continua fazendo sentido.
+- **Recomendação mantida:** entrada em R$ 24,90, abertura em R$ 19,90 para as 30 primeiras famílias, e teste de R$ 24,90 contra R$ 39,90 com famílias de fora. Com o limite subindo, vale testar com mais atenção o R$ 39,90, que dá cerca de R$ 7 a mais por venda e exige 35% menos vendas para o mesmo lucro.
+- O painel não valida o preço baixo como motor de adesão: a recusa por preço quase sumiu, e a recusa que restou é de confiança e de hábito.

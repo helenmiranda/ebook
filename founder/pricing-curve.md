@@ -4,13 +4,13 @@
 
 | point | price | what it means |
 | --- | ---: | --- |
-| PMC | $9.14 | below this, too many think it is too cheap to be good |
-| OPP | $9.14 | as many say too cheap as too expensive: the least resistance |
-| IPP | $19.01 | as many call it a bargain as call it expensive |
-| PME | $39.98 | above this, too many say it is too expensive to buy |
+| PMC | $9.07 | below this, too many think it is too cheap to be good |
+| OPP | $9.07 | as many say too cheap as too expensive: the least resistance |
+| IPP | $19.19 | as many call it a bargain as call it expensive |
+| PME | $49.05 | above this, too many say it is too expensive to buy |
 
-**Acceptable range: $9.14 to $39.98.**
+**Acceptable range: $9.07 to $49.05.**
 
-Median answers: too cheap $7.00, a bargain $15.00, getting expensive $39.00, too expensive $69.00.
+Median answers: too cheap $9.00, a bargain $19.00, getting expensive $39.00, too expensive $69.00.
 
 Your current price, $24.90, is **inside** the acceptable range.
