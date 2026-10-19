@@ -1,8 +1,15 @@
-# Dinda Nutri
+# Dinda Nutri (versão 3)
 
-- A dor (versão 2): o medo de oferecer comida de verdade ao bebê e a falta de rotina para preparar, porcionar, guardar e congelar. Quem sente isso acaba na papinha industrial por praticidade, e a criança não tem um bom começo alimentar. Observado por Giovana (mãe) e nas amigas dela. A filha da Giovana, Cecília, come muito bem e serve de história e prova de caso.
-- O que é: plataforma web (com cara de aplicativo) de introdução alimentar que responde "o que posso oferecer ao meu bebê hoje?", com conteúdo revisado por nutricionista.
-- Para quem: mães e pais de bebês em introdução alimentar (cerca de 6 a 12 meses), inseguros sobre alimentos, preparo, segurança e variedade.
-- O que vende, a que preço: freemium. Hipóteses a testar: R$ 14,90/mês, R$ 59,90 por 6 meses, módulo avulso R$ 39,90. Ferramentas: guia de alimentos, receitas, planejador/lista de compras, "O que preparar hoje?".
-- Onde e como: online, web mobile (atalho na tela inicial), sem app nativo no início. Primeira validação sem tráfego pago.
-- Orçamento e restrições: baixo investimento. Teste anterior: cerca de R$ 100 em anúncios, cliques e 1 venda do e-book, reembolsada. Três sócias: Helen (estratégia/tecnologia), Giovana (operação/financeiro), Dilienda (nutricionista, responsável técnica). Divisão societária ainda não definida.
+- **Promessa:** comida que o bebê aceita, e que você consegue fazer.
+- **Para quem:** mães e pais de bebês em introdução alimentar (5 a 10 meses) que têm medo de oferecer comida, não sabem preparar e guardar, e tendem a recorrer à papinha industrial. Giovana (mãe) e as amigas dela são o retrato desse público.
+- **Produto central:** programa "Do medo ao prato", com 4 partes:
+  1. Segurança: cortes, texturas, o que fazer em engasgo (revisado pela Dilienda).
+  2. Rotina: cozinhar uma vez, porcionar, congelar e descongelar.
+  3. Receitas com a apresentação e o sabor da Giovana (a prova: as crianças comeram).
+  4. Cardápio semanal e lista de compras.
+- **Entrega:** plataforma web com cara de aplicativo, com vídeos curtos da Giovana e da Cecília.
+- **Escada de venda:** guia grátis "Primeira semana sem medo" -> programa de 14 dias -> acesso de 6 meses (biblioteca, novos cardápios, "O que preparar hoje?") -> consulta com a Dilienda (cobrança separada).
+- **Preços a testar:** programa de 14 dias, acesso de 6 meses e consulta. Valores definidos depois, com o CFO e a pesquisa.
+- **Canais:** redes da Giovana e da Dilienda, indicação de pediatras, Reels mostrando a Cecília comendo e a rotina de preparo, grupos de mães.
+- **Fora do escopo agora:** aplicativo nativo, comida pronta congelada, crianças maiores e seletivas (segunda etapa).
+- **Sócias:** Helen (estratégia, produto e tecnologia), Giovana (método, conteúdo prático, operação e financeiro), Dilienda (responsabilidade técnica). Acordo societário a definir.
