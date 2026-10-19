@@ -1,0 +1,1 @@
+Ver idea.md. Concorrência já identificada: BLW Brasil (mais de 500 mil downloads, centenas de receitas, guias), Mundo BLW e outros apps com planejador e assinatura. Sem dados de demanda, retenção ou custo de aquisição. O público tem uso temporário (poucos meses).
