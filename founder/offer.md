@@ -72,7 +72,7 @@ Inclui: guia de segurança, rotina de preparo e congelamento, 14 dias de cardáp
 | Tempo até o resultado | 4 | 7 | Plano de 14 dias com ordem definida |
 | Esforço e sacrifício | 3 | 6 | Rotina de cozinhar uma vez, lista de compras e cardápio prontos |
 
-A chance percebida é o elo mais fraco. Só sobe de verdade com o teste de aceitação em famílias de fora e os depoimentos dele.
+A chance percebida é o elo mais fraco. Só sobe de verdade com o teste de aceitação em famílias de fora e os depoimentos que vierem dele.
 
 ## 5. Reteste e itens em aberto
 
