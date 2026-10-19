@@ -1,0 +1,164 @@
+{
+ "business": "Dinda Nutri (programa digital Do medo ao prato, de introdução alimentar)",
+ "seed": 141571,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 8,
+ "passes": 12,
+ "buy_rate": 0.4,
+ "by_segment": [
+  [
+   "Mãe com segundo filho, quer fazer diferente",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Mãe de primeira viagem, trabalha fora",
+   8,
+   0.5
+  ],
+  [
+   "Pai ou casal que divide a cozinha",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Mãe de primeira viagem, em casa ou meio período",
+   6,
+   0.16666666666666666
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Segue perfis de BLW no Instagram",
+   4,
+   1.0
+  ],
+  [
+   "Usa papinha industrial por praticidade",
+   4,
+   0.75
+  ],
+  [
+   "Já comprou e-book ou curso de maternidade",
+   2,
+   0.5
+  ],
+  [
+   "Usa app de receitas BLW",
+   2,
+   0.0
+  ],
+  [
+   "Pergunta no grupo de mães",
+   3,
+   0.0
+  ],
+  [
+   "Caça gratuito",
+   2,
+   0.0
+  ],
+  [
+   "Segue o pediatra à risca",
+   3,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$6,000 and up",
+   7,
+   0.5714285714285714
+  ],
+  [
+   "under $4,000",
+   6,
+   0.3333333333333333
+  ],
+  [
+   "$4,000 to $6,000",
+   7,
+   0.2857142857142857
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   8,
+   [
+    "Eu pergunto tudo no grupo de mães e já tem muita coisa grátis na internet. Com R$ 24,90 eu não ia pagar sem saber se outras mães do grupo usaram e aprovaram.",
+    "Eu procuro tudo de graça, tem muito PDF e vídeo grátis de introdução alimentar. Eu até sentiria que R$ 24,90 é pouco, mas com o meu medo de engasgo eu não sei se posso confiar em um programa que eu não conheço."
+   ],
+   [
+    "P002",
+    "P004"
+   ]
+  ],
+  [
+   "habit",
+   3,
+   [
+    "Eu já baixei um app de receitas e larguei em uma semana, não quero pagar por outra coisa que vou abandonar. Tem muita receita de BLW de graça no Instagram e no YouTube, e eu mal tenho tempo de abrir o celular.",
+    "Já baixei um aplicativo de receitas e parei de usar, e tem muita coisa grátis na internet. Qualquer dúvida eu pergunto no grupo de mães do WhatsApp e alguém responde na hora."
+   ],
+   [
+    "P001",
+    "P016"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Ganho uns $4.000 por ano, então R$ 24,90 por algo que vou usar poucos meses pesa. Eu procuraria vídeo e PDF grátis antes de pagar."
+   ],
+   [
+    "P012"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   5,
+   [
+    "Tenho muito medo de engasgo e hoje acabo abrindo sachê porque não sei me organizar. Por R$ 24,90, com nutricionista e devolução do dinheiro, o risco é pequeno e o 'ânsia ou engasgo?' me interessa de verdade.",
+    "Eu salvo um monte de receita de BLW e travo na hora de fazer, então um cardápio pronto com lista de compras e o jeito de congelar me ajuda de verdade. Por R$ 24,90 com devolução, não pesa no bolso."
+   ],
+   [
+    "P003",
+    "P007"
+   ]
+  ],
+  [
+   "trust",
+   3,
+   [
+    "R$ 24,90 é pouco e eu tenho medo de engasgo. Ter nutricionista e a garantia de 7 dias me faz arriscar, e o cardápio pronto com lista de compras me tira da papinha de sachê.",
+    "Tenho medo de engasgo e R$ 24,90 com devolução em 7 dias é pouco risco, e o guia 'ânsia ou engasgo?' é o que eu mais quero. Mas só compro depois de perguntar no grupo das mães se alguém conhece."
+   ],
+   [
+    "P005",
+    "P010"
+   ]
+  ]
+ ],
+ "flip": [
+  "Ver um pedaço grátis do guia de segurança ou do cardápio, ou ouvir de outra mãe que conheço que usou até o fim e que a parte de congelar é simples.",
+  "Várias mães do meu grupo de WhatsApp dizerem que compraram e que ajudou de verdade, ou uma amostra grátis (um dia do cardápio e o guia ânsia ou engasgo) para eu ver a qualidade.",
+  "Ver o nome e o registro (CRN) da nutricionista, ver uma amostra grátis do guia de segurança, e opiniões de outras mães reais.",
+  "O pediatra do meu bebê indicar ou aprovar o programa, ou eu poder ver o guia de segurança antes de pagar.",
+  "Uma mãe do meu grupo de WhatsApp dizendo que comprou e funcionou, e ver o nome e o registro da nutricionista com uma amostra real, como uma receita em vídeo ou uma página do guia.",
+  "Se o meu pediatra me indicasse ou aprovasse o programa, eu compraria.",
+  "Uma amostra grátis do guia 'ânsia ou engasgo?' e o preço lá embaixo, perto de R$ 9 a R$ 12.",
+  "Várias mães do meu grupo de WhatsApp dizendo que compraram e gostaram, ou uma amostra grátis (por exemplo o guia 'ânsia ou engasgo?') para eu ver a qualidade antes de pagar.",
+  "Meu pediatra indicar ou aprovar o programa, ou uma mãe do grupo do WhatsApp comprar e dizer que o pediatra dela achou seguro.",
+  "Uma amostra grátis de alguns dias, com a lista de compras e o guia ânsia ou engasgo, para eu ver se é melhor do que o que já acho de graça e se uma amiga do grupo já usou e recomendou.",
+  "Ver que o plano funciona com pouco espaço no freezer e sem cozinhar muito, por exemplo com receitas rápidas do dia ou porções pequenas, e ver mães reais dizendo que ajudou, por menos de R$ 15.",
+  "Mães do meu grupo de WhatsApp dizendo que compraram e usaram, ou ver uma amostra grátis, tipo um dia do cardápio com a lista de compras."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

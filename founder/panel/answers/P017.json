@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Tenho muito medo de engasgo e salvo um monte de receita que nunca faço. Um passo a passo pronto com nutricionista e lista de compras por menos de R$ 25 eu pago para parar de travar.",
+  "objection": "Já tem muita coisa grátis no Instagram e no grupo das mães. Tenho medo de ser só o que eu já salvei, em PDF.",
+  "would_change_my_mind": "Ver um dia do cardápio e um vídeo de amostra antes de pagar, ou uma indicação de uma mãe do grupo que já usou.",
+  "price_too_cheap": 7,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

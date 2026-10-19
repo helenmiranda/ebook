@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "R$ 24,90 é pouco e tem garantia de 7 dias, então o risco é baixo. O que me pega é o guia de engasgo revisado por nutricionista e a folha pra babá, porque eu morro de medo de errar.",
+  "objection": "Tenho medo de engasgo. Um programa de celular por R$ 24,90 consegue mesmo me deixar segura, ou é só mais um conteúdo genérico? Quem é essa nutricionista, eu consigo confirmar?",
+  "would_change_my_mind": "Ver o nome e o registro profissional da nutricionista e uma prévia do guia de engasgo, ou depoimentos de outras mães.",
+  "price_too_cheap": 7,
+  "price_cheap": 15,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

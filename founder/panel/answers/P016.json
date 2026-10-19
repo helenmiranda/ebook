@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Já baixei um aplicativo de receitas e parei de usar, e tem muita coisa grátis na internet. Qualquer dúvida eu pergunto no grupo de mães do WhatsApp e alguém responde na hora.",
+  "objection": "Vou pagar e usar duas vezes, que nem o outro app. E o que eu preciso saber já acho de graça ou no grupo das mães.",
+  "would_change_my_mind": "Uma amostra grátis de alguns dias, com a lista de compras e o guia ânsia ou engasgo, para eu ver se é melhor do que o que já acho de graça e se uma amiga do grupo já usou e recomendou.",
+  "price_too_cheap": 7,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P005",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "trust",
+  "reason": "R$ 24,90 é pouco e eu tenho medo de engasgo. Ter nutricionista e a garantia de 7 dias me faz arriscar, e o cardápio pronto com lista de compras me tira da papinha de sachê.",
+  "objection": "Tenho medo de engasgo e não sei se isso é confiável de verdade. Vou salvar e não fazer, como com as receitas do Instagram.",
+  "would_change_my_mind": "Ver o nome e o registro da nutricionista e depoimentos de outras mães que realmente seguiram o plano.",
+  "price_too_cheap": 8,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 69
+}

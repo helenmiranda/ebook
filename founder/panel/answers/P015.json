@@ -1,0 +1,13 @@
+{
+  "id": "P015",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Tenho medo de errar e não tenho tempo de pesquisar, então um cardápio pronto com lista de compras e guia de engasgo por menos de 25 reais me poupa dor de cabeça. Tem nutricionista e garantia de devolução, então o risco é pequeno.",
+  "objection": "Quem é essa nutricionista de verdade? Se eu não achar o registro dela e o nome, desconfio que é só mais um PDF genérico de internet.",
+  "would_change_my_mind": "Ver o nome e o registro profissional (CRN) da nutricionista e um exemplo gratuito de um dia do cardápio antes de pagar.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 70
+}
