@@ -22,7 +22,7 @@ Cálculo feito à mão a partir das entradas, não pela ferramenta: com R$ 3.000
 Para começar: **cerca de R$ 1.050** (página e área de membros, teste de aceitação, anúncios de teste, marca). Recuperados no mês 4 do cenário base.
 
 ## Três formas de melhorar o resultado
-1. **Preço de R$ 59,90 no lugar de R$ 39,90** (a ferramenta calcula): contribuição de R$ 51,22 e lucro do ano 1 de R$ 19,7 mil contra R$ 10,9 mil, no mesmo volume. O volume provavelmente cai, então o preço precisa ser testado (`/founder-pricing`).
+1. **Preço de R$ 59,90 no lugar de R$ 39,90** (a ferramenta calcula): contribuição de R$ 47,62 e lucro do ano 1 de R$ 18,1 mil contra R$ 10,9 mil, no mesmo volume (corrigido: a primeira conta não escalava as taxas com o preço). O volume provavelmente cai, então o preço precisa ser testado (`/founder-pricing`).
 2. **Escada de vendas:** o programa de 14 dias leva ao acesso de 6 meses (R$ 59,90 na hipótese original). Hoje o modelo não inclui essa segunda venda, que é o que melhora o ganho por cliente.
 3. **Segurar o custo por cliente** nas redes próprias. Cada R$ 10 a menos por cliente vale R$ 4,4 mil no ano 1 (441 vendas × R$ 10).
 
