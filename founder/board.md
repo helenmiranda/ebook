@@ -31,3 +31,38 @@ Resultado: a plataforma completa não passa. Um teste pequeno e barato, sim.
 ## A versão mais forte que o conselho enxerga
 
 Não é um app de receitas. É **"o assistente de cardápio da Dilienda"**: uma ferramenta de uma única função, que diz o que oferecer hoje com os ingredientes da casa, em um formato seguro, com a autoridade da nutricionista como ponto central. Vendida como pacote de 6 meses ou como passe de introdução alimentar, com garantia, para uma comunidade que a Dilienda já alcance (indicação de pediatras, redes dela, grupos de mães). A plataforma de quatro módulos só entra depois de 10 ou mais pagantes. A proposta atual tenta ser biblioteca, planejador, guia e ferramenta ao mesmo tempo, e é isso que a deixa parecida com os concorrentes.
+
+---
+
+# Revisão 1: a dor foi redefinida
+
+**O que mudou:** a dor deixou de ser "não sei o que preparar" e passou a ser três camadas.
+1. **Medo:** engasgo, segurança, "e se eu errar?".
+2. **Prática:** não sei preparar, porcionar, guardar nem congelar.
+3. **Consequência:** a família escolhe a papinha industrial por conveniência e a criança começa mal a introdução alimentar.
+
+**Efeito no julgamento:**
+- **Ofertas (de 5 para 6):** a dor está mais clara e é emocional. O resultado também é fácil de mostrar: um bebê comendo comida de casa. A Cecília é a primeira prova visual.
+- **Monopólio (de 3 para 4):** nasce um nicho possível, o de pais com medo que dependem de papinha. Os aplicativos concorrentes são fortes em receitas, e o que parece menos coberto é confiança e rotina de preparo e armazenamento. É uma hipótese, ainda não confirmada.
+- **Produto (de 6 para 7):** a frase fica melhor: "Do medo ao prato: seu bebê comendo comida de casa, sem complicação." O concorrente passa a ser a papinha de sachê, e o produto precisa ser mais fácil que ela.
+- **Média: cerca de 5,7/10.** Melhorou, mas continua "financiar se".
+
+**Cuidados:**
+- Relatos de amigas e o caso da Cecília são hipóteses e uma boa história, não validação. Uma criança que come bem não prova que o método funciona.
+- Nada de prometer resultado do tipo "seu filho vai comer de tudo". Qualquer afirmação de saúde passa pela Dilienda.
+- Atenção a quem já teve um mau começo: crianças maiores e seletivas exigem outro conteúdo e mais cuidado clínico. Comece pelo público de 5 a 10 meses e trate esse segundo grupo como segunda etapa.
+
+**Produto mínimo sugerido (substitui o "O que preparar hoje?" como foco):**
+um **plano de 14 dias "Do medo ao prato"**, com:
+- guia de segurança (cortes, texturas, o que fazer em engasgo);
+- rotina de preparo no fim de semana (cozinhar uma vez, porcionar, congelar, descongelar);
+- cardápio simples com lista de compras;
+- vídeos curtos da Giovana e da Cecília mostrando o dia a dia, com revisão da Dilienda.
+
+**Perguntas novas para as 15 a 20 conversas:**
+- Quem usa papinha industrial: por que escolheu? O que faria trocar?
+- Qual é o maior medo: engasgo, sujeira, tempo, desperdício?
+- Já tentou receitas de aplicativo? Onde travou?
+- Pagaria por um plano de 14 dias? Quanto?
+
+**Condição nova:** definir por que alguém compraria da Dinda Nutri e não do BLW Brasil. Sugestão: porque ela resolve o medo e a rotina, não só entrega receitas.
