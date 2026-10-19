@@ -1,4 +1,5 @@
-Dinda Nutri, programa online "Do medo ao prato" para introdução alimentar, de 5 a 10 meses.
-Em 14 dias você recebe pelo celular: guia de segurança revisado por nutricionista, rotina para cozinhar uma vez, porcionar e congelar, receitas já aceitas por bebês e cardápio com lista de compras.
-Por R$ 39,90, pagamento único, com reembolso em até 7 dias.
+Dinda Nutri, "Do medo ao prato": programa online de 14 dias para começar a introdução alimentar com segurança, pelo celular.
+Guia de segurança revisado por nutricionista, rotina para cozinhar uma vez e congelar, cardápio de 14 dias com lista de compras e receitas em vídeo curto.
+Bônus: guia de bolso "ânsia ou engasgo?", mapa para sair da papinha industrial e folha da casa para avó, babá ou parceiro.
+R$ 39,90, pagamento único. Siga o plano por 7 dias; se não ajudou você a se sentir mais segura e organizada, devolvemos o valor.
 Criado por uma mãe e uma nutricionista.
