@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu procuro tudo de graça, tem muito PDF e vídeo grátis de introdução alimentar. Eu até sentiria que R$ 24,90 é pouco, mas com o meu medo de engasgo eu não sei se posso confiar em um programa que eu não conheço.",
+  "objection": "Tenho medo de engasgo e não sei se é confiável. Quem é essa nutricionista? Por que eu pagaria se tem conteúdo grátis e o pediatra do meu bebê pode me orientar?",
+  "would_change_my_mind": "Ver o nome e o registro (CRN) da nutricionista, ver uma amostra grátis do guia de segurança, e opiniões de outras mães reais.",
+  "price_too_cheap": 7,
+  "price_cheap": 14,
+  "price_expensive": 29,
+  "price_too_expensive": 49
+}

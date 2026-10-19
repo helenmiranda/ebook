@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Eu já baixei um app de receitas e larguei em uma semana, não quero pagar por outra coisa que vou abandonar. Tem muita receita de BLW de graça no Instagram e no YouTube, e eu mal tenho tempo de abrir o celular.",
+  "objection": "Vou pagar e não vou usar, igual ao outro app. E o que eu preciso eu acho de graça na internet.",
+  "would_change_my_mind": "Ver um pedaço grátis do guia de segurança ou do cardápio, ou ouvir de outra mãe que conheço que usou até o fim e que a parte de congelar é simples.",
+  "price_too_cheap": 7,
+  "price_cheap": 15,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}
