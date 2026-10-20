@@ -1,0 +1,188 @@
+{
+ "business": "Bubblebox, lavanderia self service (franquia) no Centro de Criciúma",
+ "seed": 81715,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 9,
+ "passes": 11,
+ "buy_rate": 0.45,
+ "by_segment": [
+  [
+   "Jovem adulto morando sozinho e trabalhando",
+   4,
+   0.75
+  ],
+  [
+   "Quem trabalha ou passa o dia no Centro (comércio, serviços, autônomo)",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+   5,
+   0.4
+  ],
+  [
+   "Morador(a) de prédio, trabalhador CLT ou de serviços",
+   7,
+   0.2857142857142857
+  ],
+  [
+   "Morador(a) mais velho(a) sozinho(a) que busca praticidade",
+   1,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Só para peças grandes",
+   3,
+   1.0
+  ],
+  [
+   "Cliente de madrugada ou noite",
+   2,
+   1.0
+  ],
+  [
+   "Aproveita o tempo",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Resolve tudo de uma vez",
+   4,
+   0.5
+  ],
+  [
+   "Compara preço",
+   4,
+   0.0
+  ],
+  [
+   "Desconfiado de máquina",
+   2,
+   0.0
+  ],
+  [
+   "Segue indicação",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$40,000 to $57,000",
+   6,
+   0.6666666666666666
+  ],
+  [
+   "under $40,000",
+   6,
+   0.5
+  ],
+  [
+   "$57,000 and up",
+   8,
+   0.25
+  ]
+ ],
+ "why_not": [
+  [
+   "price",
+   5,
+   [
+    "R$ 42 por ciclo pesa no orçamento do mês, e eu faço a conta: lavar em casa ou pagar a diarista sai bem mais barato. Só pensaria nisso para um edredom, uma vez ou outra, não na minha semana normal.",
+    "R$ 42 para lavar e secar umas roupas eu ainda tenho que ficar esperando, e a lavanderia tradicional ou a diarista me faz isso mais barato e eu nem preciso ir. Fazendo a conta no mes, nao compensa."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "trust",
+   4,
+   [
+    "Eu nunca usei lavanderia self service e tenho medo de estragar a roupa ou perder dinheiro na máquina. R$ 42 por ciclo pesa, e ainda tem a dor de estacionar no Centro.",
+    "Não conheço esse tipo de máquina e tenho medo de estragar meu edredom ou jogar dinheiro fora. Só diz que cabe, mas não mostra que fica limpo, então não vou arriscar R$ 42 de cara."
+   ],
+   [
+    "P005",
+    "P006"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Em casa eu lavo de graça, só pago a luz e o sabão. R$ 42 para lavar e secar uma carga não fecha a conta para o meu dia a dia."
+   ],
+   [
+    "P011"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Estacionar no Centro já é complicado, e ainda ia ter que carregar a roupa da semana toda e ficar esperando lá. R$ 42 por semana dá uns R$ 170 por mês, é muito pra mim."
+   ],
+   [
+    "P018"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   5,
+   [
+    "Moro em apartamento pequeno sem area de servico e edredom de casal nao cabe em maquina de casa, entao preciso de um lugar que lave tudo de uma vez. Sabao incluso e maquina que aceita cobertor queen resolve meu problema, mas so vou quando juntar bastante roupa.",
+    "Eu ja levo cobertor e edredom pra fora porque nao cabe na minha maquina, e aqui e perto, no Centro, e aceita casal e queen. Pra pecas grandes eu iria uma vez pra testar; o resto da roupa continuo lavando em casa."
+   ],
+   [
+    "P003",
+    "P004"
+   ]
+  ],
+  [
+   "convenience",
+   3,
+   [
+    "Edredom de casal nao cabe direito na minha maquina e eu ja vou ao Bistek no Centro, entao deixar lavando e fazer o mercado ao mesmo tempo ate me serve. Mas so vou uma vez para testar, nao viro cliente toda semana.",
+    "Eu junto a roupa da semana e quero resolver tudo de uma vez, e como trabalho no Centro dá pra lavar e secar ali sem ter máquina em casa. Aberta até 1h e com sabão incluso facilita a minha vida."
+   ],
+   [
+    "P007",
+    "P013"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "Eu so tenho tempo de madrugada ou bem tarde, e abrir ate 1h resolve. Para cobertor e edredom, que nao cabem em casa, eu iria de vez em quando."
+   ],
+   [
+    "P014"
+   ]
+  ]
+ ],
+ "flip": [
+  "Um preço de ciclo completo perto de R$ 25 a 28, ou um pacote com desconto para edredom/cobertor grande que eu não consigo lavar em casa.",
+  "Ciclo completo perto de R$ 25 a R$ 28, ou um pacote com desconto (ex.: 4 ciclos mais barato), ou pedir pelo WhatsApp e eles lavarem para mim por esse valor.",
+  "Alguém no local me ensinando a usar a máquina na primeira vez, com garantia de devolver o dinheiro se der problema, e um estacionamento fácil perto.",
+  "Boas avaliações no Google de gente que lavou cobertor de casal lá, mais alguém na loja para me mostrar como usar e uma garantia de devolução se não ficar limpo.",
+  "A friend or neighbour telling me it is clean and the machines work well, or a good number of positive Google reviews.",
+  "Um preço bem mais baixo (uns R$ 12 a R$ 15 o ciclo completo) ou ter um edredom/cobertor grande que não cabe na minha máquina, aí talvez eu fosse uma vez.",
+  "Um preço bem menor, ou um caso pontual como edredom ou cobertor grande que não cabe na minha máquina, com um preço claro para peça grande.",
+  "Uma pessoa conhecida me indicar, ou ver boas avaliações no Google, e saber que tem alguém no local ou um passo a passo simples para me mostrar como usar.",
+  "Preço bem menor por ciclo (perto de R$ 25 o completo) ou um pacote com desconto para cobertor e edredom de vez em quando.",
+  "Estacionamento ou vaga fácil na porta, e um preço de ciclo completo mais perto de R$ 30, ou avaliações boas no Google de gente que já foi.",
+  "Ciclo completo perto de R$ 28-30, ou um preço fechado para edredom/cobertor grande que fosse bem menos que o das peças normais, e saber que tem vaga ou estacionamento fácil por perto."
+ ],
+ "purchases_first_month_per_buyer": 1.6666666666666667,
+ "price_answers": 20
+}
