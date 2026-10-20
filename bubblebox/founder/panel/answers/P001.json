@@ -1,13 +1,13 @@
 {
   "id": "P001",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Edredom é grande e não cabe direito na minha máquina, então uma vez eu testaria. Mas só uma vez, porque R$ 42 pesa e eu vou comparar com a diarista antes de voltar.",
-  "objection": "R$ 42 por ciclo pesa no orçamento do mês. Se a diarista ou a tia lavar por menos, eu não volto, e não vou pagar o pacote de 3 sem ter testado antes.",
-  "would_change_my_mind": "Um preço de ciclo completo perto de R$ 30, ou o primeiro ciclo mais barato para testar sem comprar o pacote.",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 só para lavar e secar um edredom pesa no orçamento, e é algo que eu faria uma ou duas vezes por ano. Faço a conta e acabo lavando em casa ou pagando a diarista, que sai mais em conta.",
+  "objection": "R$ 42 por ciclo é muito para uma coisa que eu posso resolver de outro jeito mais barato. Ainda tenho que ir até lá, esperar e voltar.",
+  "would_change_my_mind": "Um preço de uns R$ 30 o ciclo completo do edredom, ou uma promoção de estreia que me fizesse testar uma vez.",
   "price_too_cheap": 12,
-  "price_cheap": 28,
-  "price_expensive": 45,
-  "price_too_expensive": 65
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
 }

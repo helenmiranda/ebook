@@ -1,13 +1,13 @@
 {
   "id": "P004",
-  "buys": false,
-  "purchases_first_month": 0,
-  "reason_code": "habit",
-  "reason": "Eu lavo o dia a dia em casa e só levo cobertor e edredom para fora de vez em quando. Sair de casa para ficar esperando numa lavanderia me dá preguiça, e R$ 42 por um edredom não me convence a mudar o costume.",
-  "objection": "Sair de casa só para lavar dá preguiça, e pagar R$ 42 por uma peça que uso poucas vezes no ano pesa. Nunca usei self service e tenho receio de estragar o edredom na máquina.",
-  "would_change_my_mind": "Um preço de ciclo completo perto de R$ 30 e alguém para me ajudar na primeira vez, ou um serviço de buscar e entregar.",
-  "price_too_cheap": 12,
-  "price_cheap": 25,
-  "price_expensive": 40,
-  "price_too_expensive": 55
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Edredom eu já levo pra fora mesmo, não cabe direito na minha máquina, e dá pra deixar lavando enquanto faço o mercado no Bistek. Pra isso eu experimento uma vez, o dia a dia continua em casa.",
+  "objection": "Sair de casa só para lavar dá preguiça, e R$ 42 por edredom é mais do que eu queria pagar. Não sei se a máquina deles lava bem um edredom grosso e se seca por inteiro em um ciclo.",
+  "would_change_my_mind": "Garantia de que o edredom sai seco num ciclo só e um preço menor, perto de R$ 35 o ciclo completo.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 60
 }

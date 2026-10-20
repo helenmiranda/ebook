@@ -1,88 +1,37 @@
-# Oferta Bubblebox Centro (Criciúma): v2
+# Oferta Bubblebox Centro (Criciúma): v3
 
-Base: painel rápido com 20 compradores simulados (45% compram; ver `panel/results.md`).
-Sem `numbers.json` (o CFO não rodou), então os custos abaixo são estimativas de esforço, não de reais. Todo item precisa ser confirmado com a franqueadora (preço promocional, pacote, garantia, uso da marca) antes de ser anunciado.
+Fatos confirmados pela franqueada: câmeras no salão, máquinas industriais, produtos superconcentrados Omo e Comfort, Wi-Fi livre, espaço confortável, 5h à 1h, cobertor casal e queen, perto do Bistek.
+Itens da v2 que **saíram do pitch por não estarem confirmados**: pacote de 3 ciclos (R$ 110), garantia de ciclo, atendimento por WhatsApp e mapa de estacionamento. Continuam como opções abaixo.
+Sem `numbers.json` (o CFO não rodou), então não mexi no preço.
 
-## 1. Problemas entre o cliente e a roupa limpa (nas palavras dele)
+## 1. Mudança em relação à v2
 
-Antes de comprar:
-1. "R$ 42 pesa no mês e lavar em casa é de graça"
-2. "A diarista ou a lavanderia tradicional faz mais barato"
-3. "Nunca usei self service, tenho medo de errar"
-4. "Medo de estragar a roupa ou perder dinheiro na máquina"
-5. "Ninguém que eu conheço usou e não vejo avaliações"
-6. "Não sei se o cobertor queen cabe e fica limpo"
-7. "Estacionar no Centro é complicado"
-8. "Sair de casa só para lavar dá preguiça"
+Comodidade e segurança agora são provadas com o que existe, em vez de prometidas:
 
-Durante:
-9. "Medo de a roupa sumir ou ser trocada enquanto espero"
-10. "Esperar lá é perda de tempo"
-11. "Não sei se a máquina está livre antes de ir"
-12. "Não sei quanto tempo leva nem quando acaba"
+| Objeção do painel | Resposta na v3 (existe de verdade) |
+|---|---|
+| Medo de a roupa sumir ou ser trocada | Câmeras no salão e "você acompanha suas máquinas de onde estiver sentado" |
+| Medo de estragar o edredom / não saber se fica limpo | Máquinas industriais; Omo e Comfort superconcentrados já inclusos |
+| Medo de não saber usar | Passo a passo na entrada (QR + vídeo de 1 minuto): precisa ser feito, custo baixo |
+| Preguiça de sair e esperar | Wi-Fi, espaço confortável, deixar lavando enquanto faz o mercado no Bistek |
+| Só tenho tempo cedo/tarde | 5h à 1h |
+| Preço | Mantido em R$ 42. A prova de qualidade (industrial, Omo/Comfort) é o argumento de valor |
 
-Depois:
-13. "E se não secar direito?"
-14. "E se a máquina engolir meu dinheiro?"
-15. "Carregar a roupa limpa e úmida"
+## 2. Núcleo e bônus
 
-## 2. Solução, valor e custo
+**Nome:** Edredom Limpo, Seco e Perfumado em 1 Visita
 
-Valor ao cliente 1 a 5; custo para entregar 1 a 5 (estimativa; o CFO ainda não rodou).
+**Núcleo:** casal e queen em máquina industrial, com Omo e Comfort superconcentrados, no Centro, até 1h da manhã.
 
-| Problema | Solução | Valor | Custo |
-|---|---|---:|---:|
-| 3, 4 | Passo a passo "primeira vez" em cartaz/QR e vídeo de 60 s, sem custo recorrente | 5 | 1 |
-| 4, 14 | Garantia de ciclo: se a máquina falhar ou engolir o pagamento, devolvemos o ciclo ou o valor, é só mandar mensagem | 5 | 2 |
-| 6, 13 | Garantia do edredom: seca em um ciclo; se não secar, o ciclo seguinte é por nossa conta | 5 | 2 |
-| 5 | Pedir avaliação no Google na saída (QR); mostrar as avaliações reais nas redes | 4 | 1 |
-| 9 | Câmeras visíveis e aviso "você pode ficar vendo as máquinas" (só se já existirem) | 4 | 1 |
-| 7 | Mapa de onde parar perto (pontos que o franqueado conferir) | 3 | 1 |
-| 11, 12 | Aviso por WhatsApp de ciclo pronto e de máquina livre (só se o sistema da franquia permitir) | 4 | 3 |
-| 1, 2 | Pacote de ciclos para peças grandes, ou "dia do edredom" em horário calmo | 4 | 3 |
-| 10, 8 | Wi-Fi, espaço confortável e horário até 1h, já existentes, destacados | 3 | 1 |
+**Bônus (todos já existem ou custam quase nada):** câmeras para acompanhar as máquinas, Wi-Fi e espaço confortável, guia de primeira vez.
 
-Cortado por custo/valor ruim: lavar para o cliente (serviço de entrega), preço geral abaixo de R$ 30, pessoal fixo para ensinar.
+## 3. Opções que dependem de você (não estão no pitch)
 
-## 3. A oferta empilhada
+- **Garantia de ciclo** (refaz se a máquina falhar). Resolveria a confiança dos que só testam por avaliação, mas custa ciclos perdidos; confirme com a franqueadora e estime a taxa de reclamação.
+- **Algo que gere volta**, porque a v2 mostrou que quem entra compra uma vez só (por exemplo, um desconto na segunda visita ou um selo de fidelidade, se o sistema da franquia permitir).
+- **Mapa de estacionamento** perto, com pontos que você conferir.
+- **Pedir avaliação no Google** na saída (QR). Tem custo zero e resolve o "ninguém me indicou, não vi avaliação".
 
-**Nome:** Edredom Limpo e Seco em 1 Visita
+## 4. Pontos que precisam de dados
 
-**Núcleo:** casal e queen lavados e secos na Bubblebox, sem fila, com sabão e amaciante inclusos, no Centro, até 1h da manhã.
-
-**Bônus:**
-1. Guia "primeira vez" (cartaz/QR + vídeo): mata o medo de errar.
-2. Pacote ou "dia do edredom": valor a definir com a franqueadora e o CFO (ver abaixo).
-3. Aviso de ciclo pronto por WhatsApp, se o sistema permitir.
-
-**Garantia:** ciclo refeito ou devolvido se a máquina falhar ou o edredom não secar em um ciclo. Custo = ciclos perdidos x taxa de reclamação; precisa ser modelado com o CFO antes de prometer.
-
-**Urgência:** só a verdadeira, por exemplo "preço de abertura do pacote até <data real>". Sem contagem falsa.
-
-## 4. Valor, antes e depois (1 a 10)
-
-| Elemento | Antes | Depois | O que move |
-|---|---:|---:|---|
-| Resultado desejado | 6 | 8 | Núcleo definido por peça grande resolvida |
-| Probabilidade percebida | 4 | 7 | Guia primeira vez, garantia de ciclo, avaliações |
-| Tempo até o resultado | 5 | 6 | Aviso de ciclo pronto, uma visita |
-| Esforço e sacrifício | 4 | 6 | Mapa de estacionamento, pacote, espaço confortável |
-
-## 5. Pontos que ainda dependem de você
-
-- O preço do pacote. O painel pediu R$ 25 a 30 por ciclo, mas o CFO ainda não rodou: sem custo de energia, água, sabão e aluguel por ciclo não sei quanto desconto cabe. Um pacote de 3 a 4 ciclos com 10 a 15% de desconto é uma hipótese, não uma recomendação.
-- Se a Bubblebox permite promoção local, pacote e garantia (regras da franquia).
-- Se há câmeras, WhatsApp de aviso, onde as pessoas estacionam.
-
-## 6. Reteste (mesmos 20 compradores, mesma semente 81715)
-
-| | Oferta v1 | Oferta v2 |
-|---|---:|---:|
-| Compram | 9 de 20 (45%) | 12 de 20 (60%) |
-| Compras no 1º mês, total | 15 | 12 |
-| Compras por comprador | 1,7 | 1,0 |
-
-- A taxa de compra subiu, mas as compras totais no primeiro mês caíram: quem entrou compra uma vez só, para testar o edredom. O pacote de 3 ciclos não atraiu (dois compradores disseram que não lavam toda semana).
-- Objeção que perdeu força: preço (de 5 para 1 recusas) e "medo de errar" nos que o guia e a garantia acalmaram.
-- Objeção que continua: confiança em quem só testa por indicação ou avaliação (P006, P008), e estacionar no Centro.
-- Resultado com amostra de 20 e compradores simulados: é um sinal, não uma medida. Os compradores simulados também viram o pitch com itens que ainda não existem (câmeras, WhatsApp, pacote), o que pode inflar a melhora.
+O preço de R$ 42 não foi retestado contra o custo por ciclo. Rode o `/founder-cfo` antes de qualquer desconto.

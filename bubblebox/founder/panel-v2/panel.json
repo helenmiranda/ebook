@@ -1,0 +1,112 @@
+{
+ "n": 20,
+ "seed": 81715,
+ "customer": {
+  "business": "Bubblebox, lavanderia self service (franquia) no Centro de Criciúma",
+  "target": "Moradores de prédios e apartamentos do Centro de Criciúma (SC) e quem trabalha ou circula pela região movimentada, sem máquina de lavar/secar em casa ou com peças grandes (cobertor, edredom) para lavar",
+  "where": "Centro de Criciúma, SC, região muito movimentada e cheia de prédios, ao lado do Bistek Supermercados (mercado grande). Poucos universitários. Valores em reais (R$) por ano: onde o cartão diz '$', leia R$",
+  "age": [
+   20,
+   70
+  ],
+  "segments": [
+   {
+    "name": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+    "share": 0.35,
+    "income": [
+     30000,
+     60000
+    ]
+   },
+   {
+    "name": "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+    "share": 0.25,
+    "income": [
+     48000,
+     100000
+    ]
+   },
+   {
+    "name": "Jovem adulto morando sozinho e trabalhando",
+    "share": 0.2,
+    "income": [
+     24000,
+     48000
+    ]
+   },
+   {
+    "name": "Quem trabalha ou passa o dia no Centro (comércio, serviços, autônomo)",
+    "share": 0.15,
+    "income": [
+     36000,
+     100000
+    ]
+   },
+   {
+    "name": "Morador(a) mais velho(a) sozinho(a) que busca praticidade",
+    "share": 0.05,
+    "income": [
+     24000,
+     60000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Resolve tudo de uma vez",
+    "share": 0.18,
+    "how": "Junta a roupa da semana e lava num dia só, quer rapidez."
+   },
+   {
+    "name": "Compara preço",
+    "share": 0.2,
+    "how": "Calcula quanto gastaria em lavanderia contra lavar em casa ou na tia/diarista."
+   },
+   {
+    "name": "Só para peças grandes",
+    "share": 0.17,
+    "how": "Lava em casa o dia a dia, mas leva cobertor e edredom para fora."
+   },
+   {
+    "name": "Aproveita o tempo",
+    "share": 0.15,
+    "how": "Gosta de combinar a lavagem com mercado, trabalho ou estudo no Centro."
+   },
+   {
+    "name": "Segue indicação",
+    "share": 0.12,
+    "how": "Só testa lugar novo se alguém conhecido indicou ou se viu avaliação no Google."
+   },
+   {
+    "name": "Desconfiado de máquina",
+    "share": 0.1,
+    "how": "Teme estragar a roupa, não sabe usar o sistema e tem medo de perder dinheiro."
+   },
+   {
+    "name": "Cliente de madrugada ou noite",
+    "share": 0.08,
+    "how": "Só tem tempo muito cedo ou tarde da noite e valoriza o horário até 1h."
+   }
+  ],
+  "objections": [
+   "R$ 42 por ciclo de lavar e secar pesa no orçamento do mês",
+   "Em casa lavo de graça, só pago a luz e o sabão",
+   "Não sei usar lavanderia self service, tenho medo de errar",
+   "Medo de a roupa sumir ou ser trocada enquanto espero",
+   "Sair de casa só para lavar dá preguiça",
+   "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato",
+   "Não sei se o cobertor realmente cabe e fica limpo",
+   "Estacionar no Centro é complicado"
+  ],
+  "habits": [
+   "você passa pelo Centro de Criciúma durante a semana",
+   "você mora em apartamento pequeno sem área de serviço",
+   "você acompanha perfis locais no Instagram e vê Reels todo dia",
+   "você olha avaliações no Google antes de ir a um lugar novo",
+   "você usa o WhatsApp para falar com quase tudo",
+   "você mora em prédio no Centro e a região é sempre movimentada",
+   "você faz compras no Bistek, o mercado grande da região"
+  ]
+ },
+ "pitch": "Bubblebox, lavanderia self service no Centro de Criciúma, perto do Bistek Supermercados.\nLave e seque seu edredom casal ou queen em uma visita: R$ 21 para lavar e R$ 21 para secar (R$ 42 o ciclo completo), com sabão e amaciante inclusos.\nNunca usou lavanderia self service? Tem um passo a passo simples na entrada (QR e vídeo de 1 minuto) e atendimento por WhatsApp para tirar dúvidas.\nSe a máquina falhar ou o edredom não secar em um ciclo, refazemos o ciclo sem custo (é só mandar mensagem).\nPacote de 3 ciclos completos: R$ 110 (R$ 36,67 cada), por tempo limitado.\nAberta das 5h à 1h da manhã, com Wi-Fi livre e espaço confortável para esperar. Câmeras no salão. Mapa de estacionamento perto no Instagram."
+}

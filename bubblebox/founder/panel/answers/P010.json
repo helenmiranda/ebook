@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "need",
-  "reason": "Em casa eu lavo de graça, só pago a luz e o sabão. R$ 42 por um edredom só não compensa pra mim, e eu raramente tenho peça grande pra lavar.",
-  "objection": "Pagar R$ 42 pra fazer o que eu já faço em casa quase de graça. Só valeria pra edredom, e isso é uma vez por ano.",
-  "would_change_my_mind": "Se minha máquina quebrasse ou eu tivesse um edredom grande que não cabe em casa, e o ciclo completo saísse perto de R$ 30.",
-  "price_too_cheap": 10,
-  "price_cheap": 18,
-  "price_expensive": 30,
-  "price_too_expensive": 42
+  "reason": "Eu lavo em casa de graça, só pago a luz e o sabão. Pagar R$ 42 por um edredom não faz sentido pra mim no dia a dia.",
+  "objection": "Em casa já tenho máquina e lavo de graça. R$ 42 por ciclo é muito perto do que eu gasto num mês de sabão.",
+  "would_change_my_mind": "Se minha máquina quebrasse, ou se eu tivesse um edredom grande demais pra lavar em casa e o ciclo saísse por uns R$ 25 no total.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 38,
+  "price_too_expensive": 50
 }
