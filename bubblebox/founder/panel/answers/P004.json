@@ -1,0 +1,13 @@
+{
+  "id": "P004",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Eu ja levo cobertor e edredom pra fora porque nao cabe na minha maquina, e aqui e perto, no Centro, e aceita casal e queen. Pra pecas grandes eu iria uma vez pra testar; o resto da roupa continuo lavando em casa.",
+  "objection": "Sair de casa so pra lavar da preguica, e R$ 42 por uma peca so pesa no bolso se eu tiver que ficar esperando la. Nao sei se a maquina lava bem um edredom grosso.",
+  "would_change_my_mind": "Um preco menor para pecas grandes (lavar e secar um edredom por uns R$ 30) ou um aviso no celular quando terminar para eu nao precisar ficar esperando.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 60
+}
