@@ -35,3 +35,19 @@ Comodidade e segurança agora são provadas com o que existe, em vez de prometid
 ## 4. Pontos que precisam de dados
 
 O preço de R$ 42 não foi retestado contra o custo por ciclo. Rode o `/founder-cfo` antes de qualquer desconto.
+
+## 5. Reteste (mesmos 20 compradores, mesma semente 81715)
+
+| | v1 | v2 | v3 |
+|---|---:|---:|---:|
+| Compram | 9 de 20 (45%) | 12 de 20 (60%) | 14 de 20 (70%) |
+| Compras no 1º mês, total | 15 | 12 | 14 |
+| Recusam por preço | 5 | 1 | 2 |
+| Recusam por confiança | 4 | 4 | 2 |
+
+- A v3 subiu a taxa de compra e recuperou as compras totais, sem prometer nada que não exista. Câmeras e produtos concentrados parecem pesar mais que garantia e pacote da v2.
+- Confiança caiu de 4 para 2 recusas. Ainda recusam quem "quer ver antes se funciona" (P006) e quem desconfia de máquina em geral: só avaliações e clientes reais resolvem.
+- Preço voltou a aparecer (2 recusas), porque o pacote saiu. O preço de ciclo que o painel mais citou como ponto de virada foi R$ 25 a 30.
+- Quase todo mundo ainda compra uma vez só, para testar o edredom. Falta um motivo para voltar.
+- Estacionamento no Centro continua como objeção em vários perfis.
+- Amostra de 20, compradores simulados: é um sinal, não uma previsão.
