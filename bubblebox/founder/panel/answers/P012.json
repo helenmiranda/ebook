@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Eu só testo lugar novo se alguém que eu conheço indicou ou se vi boa avaliação no Google, e aqui não tenho nenhum dos dois. Nunca usei lavanderia self service e tenho medo de errar e estragar o edredom.",
+  "objection": "Tenho medo de errar na máquina e estragar o edredom, e ninguém que eu conheço usou esse lugar para me confirmar que é bom.",
+  "would_change_my_mind": "Um conhecido me indicar, ou ver boas avaliações no Google, e alguém no local para me ajudar na primeira vez.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 for one duvet is a lot on my budget, and I'd only need it a couple of times a year. The late hours are nice, but I'd probably find a cheaper way to wash it.",
+  "objection": "R$ 42 for a single cycle weighs on my monthly budget, and I'm not sure it's worth it versus other options.",
+  "would_change_my_mind": "A price closer to R$ 30 for the full wash and dry, or a first-visit discount.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 38,
+  "price_too_expensive": 50
+}

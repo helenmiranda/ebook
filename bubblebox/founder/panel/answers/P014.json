@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "I have no washer at home and a duvet is a pain to wash, so R$ 42 for a full cycle done late at night while I'm out is reasonable. The 5h to 1h hours fit my schedule. I would try it once and see how it goes.",
+  "objection": "I don't know how to use a self-service laundromat and I'm afraid of making a mistake and ruining the duvet or wasting the money.",
+  "would_change_my_mind": "",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P016",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Edredom é a única coisa que eu já levo para fora, e fazer isso enquanto faço o mercado no Bistek me poupa tempo. R$ 42 pelo ciclo completo é aceitável para uma peça grande, mas só vou uma vez para testar.",
+  "objection": "Medo de a roupa sumir ou ser trocada enquanto espero. Se eu largar o edredom lá e for ao mercado, quem garante que ninguém mexe nele?",
+  "would_change_my_mind": "Ver no local que o salão tem sempre alguém presente e que as máquinas ficam à vista das câmeras, ou poder trancar/identificar a máquina enquanto estou fora.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Edredom não cabe na minha máquina e R$ 42 com tudo incluso, lavando enquanto faço mercado, é uma conta que fecha contra levar na tia. Eu testaria uma vez com o edredom, mas só repetiria se o preço continuasse batendo.",
+  "objection": "Estacionar no Centro é complicado, e eu não sei se vou conseguir parar fácil perto do Bistek com um edredom grande no carro. Também fico comparando R$ 42 com o que gasto com a tia.",
+  "would_change_my_mind": "Saber que dá para estacionar perto da porta sem sofrimento, ou um preço de ciclo completo mais baixo, por volta de R$ 35.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}
