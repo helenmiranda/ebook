@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não conheço esse tipo de máquina e tenho medo de estragar meu edredom ou jogar dinheiro fora. Só diz que cabe, mas não mostra que fica limpo, então não vou arriscar R$ 42 de cara.",
+  "objection": "Não sei se o cobertor realmente cabe e fica limpo, e se eu errar no sistema ninguém me devolve o dinheiro.",
+  "would_change_my_mind": "Boas avaliações no Google de gente que lavou cobertor de casal lá, mais alguém na loja para me mostrar como usar e uma garantia de devolução se não ficar limpo.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

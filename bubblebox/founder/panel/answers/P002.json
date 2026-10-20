@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 para lavar e secar umas roupas eu ainda tenho que ficar esperando, e a lavanderia tradicional ou a diarista me faz isso mais barato e eu nem preciso ir. Fazendo a conta no mes, nao compensa.",
+  "objection": "Pago R$ 42 por ciclo e ainda tenho que ir la, ficar esperando e voltar, quando a lavanderia comum ou a diarista resolve por menos e sem eu me mexer.",
+  "would_change_my_mind": "Ciclo completo perto de R$ 25 a R$ 28, ou um pacote com desconto (ex.: 4 ciclos mais barato), ou pedir pelo WhatsApp e eles lavarem para mim por esse valor.",
+  "price_too_cheap": 10,
+  "price_cheap": 18,
+  "price_expensive": 30,
+  "price_too_expensive": 40
+}
