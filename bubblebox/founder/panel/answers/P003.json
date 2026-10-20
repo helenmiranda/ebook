@@ -1,13 +1,13 @@
 {
   "id": "P003",
   "buys": true,
-  "purchases_first_month": 2,
+  "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Moro em apartamento pequeno sem area de servico e edredom de casal nao cabe em maquina de casa, entao preciso de um lugar que lave tudo de uma vez. Sabao incluso e maquina que aceita cobertor queen resolve meu problema, mas so vou quando juntar bastante roupa.",
-  "objection": "Estacionar no Centro e complicado. Se eu nao achar vaga perto, carregar saco de roupa e edredom a pe vira dor de cabeca e R$ 42 por ciclo nao compensa o sufoco.",
-  "would_change_my_mind": "Saber que tem vaga facil ou estacionamento conveniado por perto, ou um desconto para lavar e secar varias pecas de uma vez.",
-  "price_too_cheap": 12,
-  "price_cheap": 28,
-  "price_expensive": 50,
-  "price_too_expensive": 70
+  "reason": "Moro em apartamento pequeno sem área de serviço e edredom casal é impossível de lavar em casa, então ter um lugar que lava e seca tudo numa visita resolve. Eu iria uma vez para testar, com a roupa de cama junto.",
+  "objection": "Estacionar no Centro é complicado. Se eu tiver que dar voltas atrás de vaga carregando edredom, perco a vantagem de resolver tudo de uma vez.",
+  "would_change_my_mind": "Saber exatamente onde estacionar perto, de preferência uma vaga fácil ou gratuita por um tempo, antes de eu ir.",
+  "price_too_cheap": 20,
+  "price_cheap": 35,
+  "price_expensive": 55,
+  "price_too_expensive": 75
 }

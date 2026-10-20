@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I only try a new place if someone I know recommended it or I saw good Google reviews, and I have neither here. Going out just to wash and then waiting around for the dryer feels like a chore, so I would put it off.",
+  "objection": "I don't know anyone who has used it and I have no reviews to go on. R$ 42 plus the trip and the waiting is a lot of effort for one duvet.",
+  "would_change_my_mind": "A friend or neighbour telling me it is clean and the machines work well, or a good number of positive Google reviews.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

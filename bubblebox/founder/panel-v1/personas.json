@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Elena",
+  "age": 40,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 58000,
+  "behaviour": "Compara preço",
+  "behaviour_how": "Calcula quanto gastaria em lavanderia contra lavar em casa ou na tia/diarista.",
+  "objection": "R$ 42 por ciclo de lavar e secar pesa no orçamento do mês",
+  "habit": "você acompanha perfis locais no Instagram e vê Reels todo dia"
+ },
+ {
+  "id": "P002",
+  "name": "Emil",
+  "age": 20,
+  "segment": "Morador(a) mais velho(a) sozinho(a) que busca praticidade",
+  "income": 37000,
+  "behaviour": "Compara preço",
+  "behaviour_how": "Calcula quanto gastaria em lavanderia contra lavar em casa ou na tia/diarista.",
+  "objection": "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato",
+  "habit": "você usa o WhatsApp para falar com quase tudo"
+ },
+ {
+  "id": "P003",
+  "name": "Darius",
+  "age": 60,
+  "segment": "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+  "income": 57000,
+  "behaviour": "Resolve tudo de uma vez",
+  "behaviour_how": "Junta a roupa da semana e lava num dia só, quer rapidez.",
+  "objection": "Estacionar no Centro é complicado",
+  "habit": "você mora em apartamento pequeno sem área de serviço"
+ },
+ {
+  "id": "P004",
+  "name": "Ben",
+  "age": 68,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 36000,
+  "behaviour": "Só para peças grandes",
+  "behaviour_how": "Lava em casa o dia a dia, mas leva cobertor e edredom para fora.",
+  "objection": "Sair de casa só para lavar dá preguiça",
+  "habit": "você mora em prédio no Centro e a região é sempre movimentada"
+ },
+ {
+  "id": "P005",
+  "name": "Noor",
+  "age": 36,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 49000,
+  "behaviour": "Desconfiado de máquina",
+  "behaviour_how": "Teme estragar a roupa, não sabe usar o sistema e tem medo de perder dinheiro.",
+  "objection": "Estacionar no Centro é complicado",
+  "habit": "você faz compras no Bistek, o mercado grande da região"
+ },
+ {
+  "id": "P006",
+  "name": "Kofi",
+  "age": 60,
+  "segment": "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+  "income": 66000,
+  "behaviour": "Desconfiado de máquina",
+  "behaviour_how": "Teme estragar a roupa, não sabe usar o sistema e tem medo de perder dinheiro.",
+  "objection": "Não sei se o cobertor realmente cabe e fica limpo",
+  "habit": "você olha avaliações no Google antes de ir a um lugar novo"
+ },
+ {
+  "id": "P007",
+  "name": "Sofia",
+  "age": 20,
+  "segment": "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+  "income": 88000,
+  "behaviour": "Aproveita o tempo",
+  "behaviour_how": "Gosta de combinar a lavagem com mercado, trabalho ou estudo no Centro.",
+  "objection": "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato",
+  "habit": "você usa o WhatsApp para falar com quase tudo"
+ },
+ {
+  "id": "P008",
+  "name": "Aria",
+  "age": 33,
+  "segment": "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+  "income": 85000,
+  "behaviour": "Segue indicação",
+  "behaviour_how": "Só testa lugar novo se alguém conhecido indicou ou se viu avaliação no Google.",
+  "objection": "Sair de casa só para lavar dá preguiça",
+  "habit": "você mora em apartamento pequeno sem área de serviço"
+ },
+ {
+  "id": "P009",
+  "name": "Tess",
+  "age": 56,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 34000,
+  "behaviour": "Só para peças grandes",
+  "behaviour_how": "Lava em casa o dia a dia, mas leva cobertor e edredom para fora.",
+  "objection": "Não sei se o cobertor realmente cabe e fica limpo",
+  "habit": "você usa o WhatsApp para falar com quase tudo"
+ },
+ {
+  "id": "P010",
+  "name": "Gabriel",
+  "age": 60,
+  "segment": "Jovem adulto morando sozinho e trabalhando",
+  "income": 42000,
+  "behaviour": "Resolve tudo de uma vez",
+  "behaviour_how": "Junta a roupa da semana e lava num dia só, quer rapidez.",
+  "objection": "Em casa lavo de graça, só pago a luz e o sabão",
+  "habit": "você passa pelo Centro de Criciúma durante a semana"
+ },
+ {
+  "id": "P011",
+  "name": "Noah",
+  "age": 45,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 58000,
+  "behaviour": "Aproveita o tempo",
+  "behaviour_how": "Gosta de combinar a lavagem com mercado, trabalho ou estudo no Centro.",
+  "objection": "Em casa lavo de graça, só pago a luz e o sabão",
+  "habit": "você acompanha perfis locais no Instagram e vê Reels todo dia"
+ },
+ {
+  "id": "P012",
+  "name": "Jonah",
+  "age": 38,
+  "segment": "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+  "income": 95000,
+  "behaviour": "Segue indicação",
+  "behaviour_how": "Só testa lugar novo se alguém conhecido indicou ou se viu avaliação no Google.",
+  "objection": "Não sei usar lavanderia self service, tenho medo de errar",
+  "habit": "você faz compras no Bistek, o mercado grande da região"
+ },
+ {
+  "id": "P013",
+  "name": "Jade",
+  "age": 22,
+  "segment": "Quem trabalha ou passa o dia no Centro (comércio, serviços, autônomo)",
+  "income": 47000,
+  "behaviour": "Resolve tudo de uma vez",
+  "behaviour_how": "Junta a roupa da semana e lava num dia só, quer rapidez.",
+  "objection": "Estacionar no Centro é complicado",
+  "habit": "você usa o WhatsApp para falar com quase tudo"
+ },
+ {
+  "id": "P014",
+  "name": "Priya",
+  "age": 38,
+  "segment": "Jovem adulto morando sozinho e trabalhando",
+  "income": 34000,
+  "behaviour": "Cliente de madrugada ou noite",
+  "behaviour_how": "Só tem tempo muito cedo ou tarde da noite e valoriza o horário até 1h.",
+  "objection": "Não sei usar lavanderia self service, tenho medo de errar",
+  "habit": "você passa pelo Centro de Criciúma durante a semana"
+ },
+ {
+  "id": "P015",
+  "name": "Zara",
+  "age": 66,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 35000,
+  "behaviour": "Compara preço",
+  "behaviour_how": "Calcula quanto gastaria em lavanderia contra lavar em casa ou na tia/diarista.",
+  "objection": "Medo de a roupa sumir ou ser trocada enquanto espero",
+  "habit": "você mora em apartamento pequeno sem área de serviço"
+ },
+ {
+  "id": "P016",
+  "name": "Luca",
+  "age": 45,
+  "segment": "Quem trabalha ou passa o dia no Centro (comércio, serviços, autônomo)",
+  "income": 49000,
+  "behaviour": "Só para peças grandes",
+  "behaviour_how": "Lava em casa o dia a dia, mas leva cobertor e edredom para fora.",
+  "objection": "Medo de a roupa sumir ou ser trocada enquanto espero",
+  "habit": "você faz compras no Bistek, o mercado grande da região"
+ },
+ {
+  "id": "P017",
+  "name": "Hana",
+  "age": 43,
+  "segment": "Jovem adulto morando sozinho e trabalhando",
+  "income": 41000,
+  "behaviour": "Cliente de madrugada ou noite",
+  "behaviour_how": "Só tem tempo muito cedo ou tarde da noite e valoriza o horário até 1h.",
+  "objection": "R$ 42 por ciclo de lavar e secar pesa no orçamento do mês",
+  "habit": "você mora em prédio no Centro e a região é sempre movimentada"
+ },
+ {
+  "id": "P018",
+  "name": "Selin",
+  "age": 38,
+  "segment": "Morador(a) de prédio, trabalhador CLT ou de serviços",
+  "income": 30000,
+  "behaviour": "Resolve tudo de uma vez",
+  "behaviour_how": "Junta a roupa da semana e lava num dia só, quer rapidez.",
+  "objection": "Estacionar no Centro é complicado",
+  "habit": "você olha avaliações no Google antes de ir a um lugar novo"
+ },
+ {
+  "id": "P019",
+  "name": "Liam",
+  "age": 30,
+  "segment": "Jovem adulto morando sozinho e trabalhando",
+  "income": 40000,
+  "behaviour": "Aproveita o tempo",
+  "behaviour_how": "Gosta de combinar a lavagem com mercado, trabalho ou estudo no Centro.",
+  "objection": "Medo de a roupa sumir ou ser trocada enquanto espero",
+  "habit": "você mora em apartamento pequeno sem área de serviço"
+ },
+ {
+  "id": "P020",
+  "name": "Eli",
+  "age": 30,
+  "segment": "Quem trabalha ou passa o dia no Centro (comércio, serviços, autônomo)",
+  "income": 57000,
+  "behaviour": "Compara preço",
+  "behaviour_how": "Calcula quanto gastaria em lavanderia contra lavar em casa ou na tia/diarista.",
+  "objection": "Estacionar no Centro é complicado",
+  "habit": "você passa pelo Centro de Criciúma durante a semana"
+ }
+]

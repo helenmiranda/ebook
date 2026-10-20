@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Edredom de casal nao cabe direito na minha maquina e eu ja vou ao Bistek no Centro, entao deixar lavando e fazer o mercado ao mesmo tempo ate me serve. Mas so vou uma vez para testar, nao viro cliente toda semana.",
+  "objection": "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato, e R$ 42 para fazer tudo eu mesma ainda me parece caro para um edredom.",
+  "would_change_my_mind": "Um pacote ou desconto para cobertor/edredom (lavar e secar por menos de R$ 35) ou um aviso por WhatsApp quando o ciclo terminar.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 45,
+  "price_too_expensive": 65
+}

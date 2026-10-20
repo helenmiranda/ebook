@@ -3,11 +3,11 @@
   "buys": false,
   "purchases_first_month": 0,
   "reason_code": "trust",
-  "reason": "Eu nunca usei lavanderia self service e tenho medo de estragar a roupa ou perder dinheiro na máquina. R$ 42 por ciclo pesa, e ainda tem a dor de estacionar no Centro.",
-  "objection": "Não sei usar o sistema, tenho medo de errar e estragar a roupa ou perder o dinheiro, e estacionar no Centro é complicado.",
-  "would_change_my_mind": "Alguém no local me ensinando a usar a máquina na primeira vez, com garantia de devolver o dinheiro se der problema, e um estacionamento fácil perto.",
-  "price_too_cheap": 12,
-  "price_cheap": 22,
-  "price_expensive": 35,
-  "price_too_expensive": 50
+  "reason": "Tenho medo de estragar meu edredom numa máquina que eu não sei usar, e ainda ter que estacionar no Centro. R$ 42 por uma coisa que eu nunca fiz me parece risco de perder dinheiro à toa.",
+  "objection": "E se eu estragar o edredom ou a máquina comer meu dinheiro e eu não souber mexer? Ainda tem a dor de cabeça de estacionar no Centro.",
+  "would_change_my_mind": "Ver alguém da loja ajudando pessoalmente na primeira vez, ou uma garantia clara de que eles pagam se o edredom estragar, e um estacionamento fácil e garantido perto da porta.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 65
 }
