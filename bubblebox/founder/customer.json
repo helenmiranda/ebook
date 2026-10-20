@@ -1,0 +1,39 @@
+{
+  "business": "Bubblebox, lavanderia self service (franquia) no Centro de Criciúma",
+  "target": "Moradores do Centro e entorno de Criciúma (SC) que não têm máquina de lavar ou secar em casa, ou precisam lavar peças grandes: jovens e estudantes morando sozinhos, famílias de apartamento pequeno, trabalhadores com pouco tempo",
+  "where": "Centro de Criciúma, SC, perto do Bistek Supermercados. Valores em reais (R$) por ano: onde o cartão diz '$', leia R$",
+  "age": [18, 60],
+  "segments": [
+    {"name": "Jovem ou estudante morando sozinho/em república", "share": 0.30, "income": [14000, 36000]},
+    {"name": "Trabalhador(a) CLT de apartamento pequeno", "share": 0.35, "income": [30000, 60000]},
+    {"name": "Família ou casal com cobertor/edredom e roupa de cama grande", "share": 0.25, "income": [48000, 100000]},
+    {"name": "Autônomo, profissional liberal ou pessoa que passa o dia no Centro", "share": 0.10, "income": [48000, 120000]}
+  ],
+  "behaviours": [
+    {"name": "Resolve tudo de uma vez", "share": 0.18, "how": "Junta a roupa da semana e lava num dia só, quer rapidez."},
+    {"name": "Compara preço", "share": 0.20, "how": "Calcula quanto gastaria em lavanderia contra lavar em casa ou na tia/diarista."},
+    {"name": "Só para peças grandes", "share": 0.17, "how": "Lava em casa o dia a dia, mas leva cobertor e edredom para fora."},
+    {"name": "Aproveita o tempo", "share": 0.15, "how": "Gosta de combinar a lavagem com mercado, trabalho ou estudo no Centro."},
+    {"name": "Segue indicação", "share": 0.12, "how": "Só testa lugar novo se alguém conhecido indicou ou se viu avaliação no Google."},
+    {"name": "Desconfiado de máquina", "share": 0.10, "how": "Teme estragar a roupa, não sabe usar o sistema e tem medo de perder dinheiro."},
+    {"name": "Cliente de madrugada ou noite", "share": 0.08, "how": "Só tem tempo muito cedo ou tarde da noite e valoriza o horário até 1h."}
+  ],
+  "objections": [
+    "R$ 42 por ciclo de lavar e secar pesa no orçamento do mês",
+    "Em casa lavo de graça, só pago a luz e o sabão",
+    "Não sei usar lavanderia self service, tenho medo de errar",
+    "Medo de a roupa sumir ou ser trocada enquanto espero",
+    "Sair de casa só para lavar dá preguiça",
+    "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato",
+    "Não sei se o cobertor realmente cabe e fica limpo",
+    "Estacionar no Centro é complicado"
+  ],
+  "habits": [
+    "você passa pelo Centro de Criciúma durante a semana",
+    "você faz compras no Bistek aos sábados",
+    "você mora em apartamento pequeno sem área de serviço",
+    "você acompanha perfis locais no Instagram e vê Reels todo dia",
+    "você olha avaliações no Google antes de ir a um lugar novo",
+    "você usa o WhatsApp para falar com quase tudo"
+  ]
+}
