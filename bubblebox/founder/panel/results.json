@@ -1,0 +1,193 @@
+{
+ "business": "Bubblebox, lavanderia self service (franquia) no Centro de Criciúma",
+ "seed": 81715,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 12,
+ "passes": 8,
+ "buy_rate": 0.6,
+ "by_segment": [
+  [
+   "Morador(a) mais velho(a) sozinho(a) que busca praticidade",
+   1,
+   1.0
+  ],
+  [
+   "Jovem adulto morando sozinho e trabalhando",
+   4,
+   0.75
+  ],
+  [
+   "Morador(a) de prédio, trabalhador CLT ou de serviços",
+   7,
+   0.7142857142857143
+  ],
+  [
+   "Quem trabalha ou passa o dia no Centro (comércio, serviços, autônomo)",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Família ou casal de apartamento com cobertor/edredom e roupa de cama grande",
+   5,
+   0.2
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Compara preço",
+   4,
+   1.0
+  ],
+  [
+   "Cliente de madrugada ou noite",
+   2,
+   1.0
+  ],
+  [
+   "Resolve tudo de uma vez",
+   4,
+   0.75
+  ],
+  [
+   "Aproveita o tempo",
+   3,
+   0.6666666666666666
+  ],
+  [
+   "Só para peças grandes",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Desconfiado de máquina",
+   2,
+   0.0
+  ],
+  [
+   "Segue indicação",
+   2,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "under $40,000",
+   6,
+   0.8333333333333334
+  ],
+  [
+   "$57,000 and up",
+   8,
+   0.5
+  ],
+  [
+   "$40,000 to $57,000",
+   6,
+   0.5
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   4,
+   [
+    "Tenho medo de estragar meu edredom numa máquina que eu não sei usar, e ainda ter que estacionar no Centro. R$ 42 por uma coisa que eu nunca fiz me parece risco de perder dinheiro à toa.",
+    "Não confio em máquina que não conheço, e edredom grande é caro de estragar. Prefiro não arriscar meu dinheiro e minha roupa de cama num sistema que nunca usei, mesmo com o vídeo e o WhatsApp."
+   ],
+   [
+    "P005",
+    "P006"
+   ]
+  ],
+  [
+   "habit",
+   1,
+   [
+    "Eu lavo o dia a dia em casa e só levo cobertor e edredom para fora de vez em quando. Sair de casa para ficar esperando numa lavanderia me dá preguiça, e R$ 42 por um edredom não me convence a mudar o costume."
+   ],
+   [
+    "P004"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Eu já tenho uma lavanderia tradicional e uma diarista que resolvem o edredom por menos ou por um preço parecido, sem eu ter que ficar esperando ou carregar o peso duas vezes. R$ 42 para fazer eu mesma o serviço não me parece vantagem."
+   ],
+   [
+    "P007"
+   ]
+  ],
+  [
+   "convenience",
+   1,
+   [
+    "Eu até tenho edredom grande e nenhum lugar pra lavar, mas sair de casa carregando tudo e ficar esperando dá preguiça. Não conheço o lugar, ninguém me indicou e eu não vi avaliação no Google, então não vou ser a primeira a testar."
+   ],
+   [
+    "P008"
+   ]
+  ],
+  [
+   "need",
+   1,
+   [
+    "Em casa eu lavo de graça, só pago a luz e o sabão. R$ 42 por um edredom só não compensa pra mim, e eu raramente tenho peça grande pra lavar."
+   ],
+   [
+    "P010"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "need",
+   9,
+   [
+    "Edredom é grande e não cabe direito na minha máquina, então uma vez eu testaria. Mas só uma vez, porque R$ 42 pesa e eu vou comparar com a diarista antes de voltar.",
+    "Moro sozinho e não tenho máquina em casa, e edredom casal não cabe em lugar nenhum que eu tenha. Se R$ 42 resolve tudo numa visita, com sabão incluso e refazendo se não secar, eu testo uma vez."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "convenience",
+   2,
+   [
+    "Edredom não cabe na máquina que eu tenho acesso, e fazer tudo num dia só em uma hora que cabe no meu horário (aberto até 1h) me serve. Eu tentaria uma vez pra ver se vale a pena.",
+    "Edredom queen não cabe na minha máquina e eu só tenho tempo tarde da noite, então abrir até 1h pesa muito. Com o passo a passo e o WhatsApp, eu arriscaria uma vez para testar."
+   ],
+   [
+    "P013",
+    "P014"
+   ]
+  ],
+  [
+   "timing",
+   1,
+   [
+    "Só tenho tempo bem cedo ou bem tarde, e aberta das 5h à 1h me serve. Se o edredom precisa ser lavado, eu iria uma vez para resolver de uma vez, mas não viraria hábito."
+   ],
+   [
+    "P017"
+   ]
+  ]
+ ],
+ "flip": [
+  "Um preço de ciclo completo perto de R$ 30 e alguém para me ajudar na primeira vez, ou um serviço de buscar e entregar.",
+  "Ver alguém da loja ajudando pessoalmente na primeira vez, ou uma garantia clara de que eles pagam se o edredom estragar, e um estacionamento fácil e garantido perto da porta.",
+  "Boas avaliações no Google de gente que lavou edredom lá, e alguém no local me mostrando a máquina na primeira vez, ou um ciclo de teste grátis.",
+  "Um preço bem menor por ciclo completo (perto de R$ 30), ou uma opção de deixar o edredom e buscar depois, pelo WhatsApp, a um preço que não fique acima da lavanderia tradicional.",
+  "Alguém que eu conheço me indicar e boas avaliações no Google; ou um serviço de buscar e entregar em casa.",
+  "Se minha máquina quebrasse ou eu tivesse um edredom grande que não cabe em casa, e o ciclo completo saísse perto de R$ 30.",
+  "Um amigo ou vizinho me dizer que lavou o edredom lá e deu certo, ou ver várias avaliações boas no Google.",
+  "Saber que dá para travar a máquina ou que alguém fica no local o tempo todo, e um preço por ciclo único mais perto de R$ 30 para o edredom, para eu testar uma vez quando precisar."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

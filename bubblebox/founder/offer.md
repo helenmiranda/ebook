@@ -73,3 +73,16 @@ Cortado por custo/valor ruim: lavar para o cliente (serviço de entrega), preço
 - O preço do pacote. O painel pediu R$ 25 a 30 por ciclo, mas o CFO ainda não rodou: sem custo de energia, água, sabão e aluguel por ciclo não sei quanto desconto cabe. Um pacote de 3 a 4 ciclos com 10 a 15% de desconto é uma hipótese, não uma recomendação.
 - Se a Bubblebox permite promoção local, pacote e garantia (regras da franquia).
 - Se há câmeras, WhatsApp de aviso, onde as pessoas estacionam.
+
+## 6. Reteste (mesmos 20 compradores, mesma semente 81715)
+
+| | Oferta v1 | Oferta v2 |
+|---|---:|---:|
+| Compram | 9 de 20 (45%) | 12 de 20 (60%) |
+| Compras no 1º mês, total | 15 | 12 |
+| Compras por comprador | 1,7 | 1,0 |
+
+- A taxa de compra subiu, mas as compras totais no primeiro mês caíram: quem entrou compra uma vez só, para testar o edredom. O pacote de 3 ciclos não atraiu (dois compradores disseram que não lavam toda semana).
+- Objeção que perdeu força: preço (de 5 para 1 recusas) e "medo de errar" nos que o guia e a garantia acalmaram.
+- Objeção que continua: confiança em quem só testa por indicação ou avaliação (P006, P008), e estacionar no Centro.
+- Resultado com amostra de 20 e compradores simulados: é um sinal, não uma medida. Os compradores simulados também viram o pitch com itens que ainda não existem (câmeras, WhatsApp, pacote), o que pode inflar a melhora.
