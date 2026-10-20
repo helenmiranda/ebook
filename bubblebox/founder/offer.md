@@ -55,3 +55,19 @@ O preço de R$ 42 não foi retestado contra o custo por ciclo. Rode o `/founder-
 ## 6. Correção (câmeras)
 
 A franqueada esclareceu que as câmeras são **de segurança**, não de acompanhamento. O pitch testado na v3 dizia "você acompanha suas máquinas de onde estiver sentado", o que não é verdade. O resultado de 14 de 20 (70%) da seção 5 está, portanto, inflado: parte dos compradores respondeu a uma promessa que a Bubblebox não faz. O pitch foi corrigido para "Salão monitorado por câmeras de segurança"; falta refazer o teste com o texto correto.
+
+## 7. Reteste honesto da v3 (pitch corrigido, câmeras de segurança)
+
+| | v1 | v2 | v3 corrigida |
+|---|---:|---:|---:|
+| Compram | 9 de 20 (45%) | 12 de 20 (60%) | 11 de 20 (55%) |
+| Compras no 1º mês, total | 15 | 12 | 11 |
+| Recusam por preço | 5 | 1 | 4 |
+| Recusam por confiança | 4 | 4 | 4 |
+
+- O número válido da v3 é **55%**, e não os 70% da seção 5 (que prometia acompanhamento pelas câmeras).
+- Contra a v1, a oferta melhorou a taxa de compra, mas as compras totais no primeiro mês caíram: quem entra compra uma vez só, para testar o edredom.
+- Contra a v2, a v3 perdeu um comprador. A v2 tinha pacote e garantia (não confirmados); sem eles, o preço volta a pesar (4 recusas por preço).
+- Confiança continua em 4 recusas: quem desconfia de máquina e quem só testa por indicação ou avaliação não é convencido por câmera de segurança nem pelo vídeo de 1 minuto.
+- Estacionamento no Centro segue como objeção em vários perfis, inclusive de quem compra.
+- Amostra de 20 compradores simulados: é um sinal, não uma previsão.
