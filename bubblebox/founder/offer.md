@@ -10,7 +10,7 @@ Comodidade e segurança agora são provadas com o que existe, em vez de prometid
 
 | Objeção do painel | Resposta na v3 (existe de verdade) |
 |---|---|
-| Medo de a roupa sumir ou ser trocada | Câmeras no salão e "você acompanha suas máquinas de onde estiver sentado" |
+| Medo de a roupa sumir ou ser trocada | Salão monitorado por câmeras de segurança (as câmeras são de segurança; o cliente não acompanha as máquinas por elas) |
 | Medo de estragar o edredom / não saber se fica limpo | Máquinas industriais; Omo e Comfort superconcentrados já inclusos |
 | Medo de não saber usar | Passo a passo na entrada (QR + vídeo de 1 minuto): precisa ser feito, custo baixo |
 | Preguiça de sair e esperar | Wi-Fi, espaço confortável, deixar lavando enquanto faz o mercado no Bistek |
@@ -23,7 +23,7 @@ Comodidade e segurança agora são provadas com o que existe, em vez de prometid
 
 **Núcleo:** casal e queen em máquina industrial, com Omo e Comfort superconcentrados, no Centro, até 1h da manhã.
 
-**Bônus (todos já existem ou custam quase nada):** câmeras para acompanhar as máquinas, Wi-Fi e espaço confortável, guia de primeira vez.
+**Bônus (todos já existem ou custam quase nada):** câmeras de segurança no salão, Wi-Fi e espaço confortável, guia de primeira vez.
 
 ## 3. Opções que dependem de você (não estão no pitch)
 
@@ -51,3 +51,7 @@ O preço de R$ 42 não foi retestado contra o custo por ciclo. Rode o `/founder-
 - Quase todo mundo ainda compra uma vez só, para testar o edredom. Falta um motivo para voltar.
 - Estacionamento no Centro continua como objeção em vários perfis.
 - Amostra de 20, compradores simulados: é um sinal, não uma previsão.
+
+## 6. Correção (câmeras)
+
+A franqueada esclareceu que as câmeras são **de segurança**, não de acompanhamento. O pitch testado na v3 dizia "você acompanha suas máquinas de onde estiver sentado", o que não é verdade. O resultado de 14 de 20 (70%) da seção 5 está, portanto, inflado: parte dos compradores respondeu a uma promessa que a Bubblebox não faz. O pitch foi corrigido para "Salão monitorado por câmeras de segurança"; falta refazer o teste com o texto correto.
