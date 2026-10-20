@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Moro em apartamento e edredom não cabe em máquina de casa, então resolver lavar e secar tudo num dia só por R$ 42 me serve. Refazer o ciclo de graça se não secar ajuda, mas vou testar uma vez antes de pensar em pacote.",
+  "objection": "Estacionar no Centro é complicado, e eu nunca usei self service: tenho medo de perder tempo, não achar vaga e o edredom ficar úmido.",
+  "would_change_my_mind": "Ver boas avaliações no Google de quem já foi e saber exatamente onde estacionar perto sem pagar caro.",
+  "price_too_cheap": 20,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

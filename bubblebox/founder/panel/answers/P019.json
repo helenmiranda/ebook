@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Moro num apartamento pequeno sem área de serviço e não tenho onde lavar edredom, então R$ 42 pra lavar e secar tudo numa visita resolve. Dá pra fazer enquanto faço mercado no Bistek ali perto.",
+  "objection": "Medo de o edredom sumir ou ser trocado enquanto eu estou no mercado. Não sei quem fica de olho nas máquinas, só tem câmeras.",
+  "would_change_my_mind": "Ver que tem alguém no local ou um jeito seguro de deixar as peças (máquinas com porta travada, ou atendente), ou ter que esperar ali dentro sem sair.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}
