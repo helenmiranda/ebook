@@ -1,13 +1,13 @@
 {
   "id": "P002",
-  "buys": true,
-  "purchases_first_month": 1,
-  "reason_code": "need",
-  "reason": "Edredom nao cabe direito em maquina pequena e eu moro sozinho sem secadora, entao lavar e secar tudo numa visita por R$ 42 enquanto faco mercado me resolve. Eu iria uma vez pra testar, nao toda semana.",
-  "objection": "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato, e R$ 42 so pra um edredom pesa se eu for repetir todo mes.",
-  "would_change_my_mind": "Um preco menor para o ciclo completo do edredom (uns R$ 30) ou um combo lavar e secar com desconto.",
-  "price_too_cheap": 15,
-  "price_cheap": 28,
-  "price_expensive": 45,
-  "price_too_expensive": 60
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 para lavar e secar um edredom eu comparo com a lavanderia tradicional e com a diarista, e acho que eles fazem por menos ou parecido sem eu precisar carregar nada. Nao vejo motivo para trocar o que ja funciona.",
+  "objection": "Tenho uma lavanderia tradicional ou diarista que faz isso mais barato, e ainda por cima eu nao preciso ir la nem esperar. Pagar R$ 42 e ainda carregar o edredom ate o Centro nao compensa.",
+  "would_change_my_mind": "Um preco bem menor que o da lavanderia tradicional e da diarista, ou um preco fixo avisado no WhatsApp mostrando que sai mais barato que o que pago hoje.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
 }

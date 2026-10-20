@@ -1,0 +1,13 @@
+{
+  "id": "P003",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I live in a small apartment with no laundry area and the queen duvet does not fit anywhere at home. Washing and drying it in one visit for R$ 42 while I do the shopping at Bistek solves it.",
+  "objection": "Parking in the Centro is complicated. If I cannot park close by, hauling a big bag with a duvet is not worth the trouble.",
+  "would_change_my_mind": "Knowing where to park near the shop (a deal with a car park, or a free spot for the duration of the cycle).",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

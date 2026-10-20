@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "I have a big duvet and no laundry area in my small apartment, so a one-off wash and dry for R$ 42 is a real solution. The Bistek next door means I can do the groceries while it runs. I would only try it once at first.",
+  "objection": "Going out just to wash is a hassle, and I do not know anyone who has used it or seen Google reviews yet. I would worry the machine does not clean the duvet well or that it comes out damp.",
+  "would_change_my_mind": "A friend recommending it, or good Google reviews showing duvets coming out clean and fully dry.",
+  "price_too_cheap": 20,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

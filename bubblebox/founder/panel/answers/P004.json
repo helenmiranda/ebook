@@ -3,11 +3,11 @@
   "buys": true,
   "purchases_first_month": 1,
   "reason_code": "need",
-  "reason": "Edredom eu já levo pra fora mesmo, não cabe direito na minha máquina, e dá pra deixar lavando enquanto faço o mercado no Bistek. Pra isso eu experimento uma vez, o dia a dia continua em casa.",
-  "objection": "Sair de casa só para lavar dá preguiça, e R$ 42 por edredom é mais do que eu queria pagar. Não sei se a máquina deles lava bem um edredom grosso e se seca por inteiro em um ciclo.",
-  "would_change_my_mind": "Garantia de que o edredom sai seco num ciclo só e um preço menor, perto de R$ 35 o ciclo completo.",
+  "reason": "Edredom eu ja levo para fora mesmo, nao cabe na minha maquina, e R$ 42 com sabao incluso e perto do Bistek, onde eu faco mercado, e razoavel. Uma vez por estacao eu uso, o dia a dia continua em casa.",
+  "objection": "Sair de casa so para lavar da preguica, e nao sei se a maquina vai dar conta de um edredom grosso sem deixar umido ou se alguem me ajuda se algo der errado.",
+  "would_change_my_mind": "Garantia de que o edredom sai bem seco e limpo, ou alguem no local para ajudar na primeira vez.",
   "price_too_cheap": 15,
-  "price_cheap": 28,
-  "price_expensive": 45,
-  "price_too_expensive": 60
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 75
 }

@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 só para lavar e secar um edredom pesa no orçamento, e é algo que eu faria uma ou duas vezes por ano. Faço a conta e acabo lavando em casa ou pagando a diarista, que sai mais em conta.",
+  "objection": "R$ 42 por ciclo é muito para uma coisa que eu posso resolver de outro jeito mais barato. Ainda tenho que ir até lá, esperar e voltar.",
+  "would_change_my_mind": "Um preço de uns R$ 30 o ciclo completo do edredom, ou uma promoção de estreia que me fizesse testar uma vez.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

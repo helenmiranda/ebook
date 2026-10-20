@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Não conheço esse sistema e tenho medo de estragar meu edredom ou de pôr dinheiro na máquina e o cobertor sair mal lavado. Um vídeo de 1 minuto não me tranquiliza; eu quero ver antes se funciona.",
+  "objection": "Não sei se o edredom realmente cabe e fica limpo, nem se eu vou saber usar a máquina sem perder meu dinheiro.",
+  "would_change_my_mind": "Boas avaliações no Google de gente que lavou edredom lá, e um funcionário no local me ajudando na primeira vez ou garantia de devolver o dinheiro se o ciclo der errado.",
+  "price_too_cheap": 15,
+  "price_cheap": 28,
+  "price_expensive": 50,
+  "price_too_expensive": 65
+}
