@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "need",
+  "reason": "Moro sozinha no Centro, não tenho máquina e edredom não cabe em lugar nenhum aqui, então uma vez eu vou precisar. Como só tenho tempo tarde da noite, abrir até 1h me serve, mas só vou usar quando realmente precisar.",
+  "objection": "R$ 42 por ciclo de lavar e secar pesa no orçamento do mês. Não sei se a máquina realmente seca um edredom direito numa vez só, e não quero pagar duas vezes para secar.",
+  "would_change_my_mind": "Um preço menor, tipo R$ 30 o ciclo completo, ou um desconto na primeira visita ou no segundo ciclo de secagem se o edredom sair úmido.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 40,
+  "price_too_expensive": 55
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "A queen duvet is a pain to wash at home and R$ 42 with the Bistek right there is easy to fit into a shopping trip. I would try it once, but only because the price is fair and the instructions look simple.",
+  "objection": "I have never used a self-service laundry and I am afraid of messing up, like using the wrong cycle or shrinking or ruining the duvet. I also do not know anyone who has been there.",
+  "would_change_my_mind": "A friend or neighbour recommending it, good Google reviews, or a staff member or attendant who can help me with the first wash.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 80
+}

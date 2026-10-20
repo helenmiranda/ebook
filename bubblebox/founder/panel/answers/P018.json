@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Edredom nao cabe na minha maquina e eu gosto de resolver tudo num dia so. Deixar lavando enquanto faco o mercado no Bistek faz sentido, entao eu testaria uma vez.",
+  "objection": "Estacionar no Centro e complicado. Se eu nao achar vaga perto, nao vale o trabalho de carregar edredom, e eu so vou olhar as avaliacoes no Google antes de ir.",
+  "would_change_my_mind": "Saber onde estaciono perto (vaga ou estacionamento do Bistek) e ver boas avaliacoes no Google.",
+  "price_too_cheap": 20,
+  "price_cheap": 32,
+  "price_expensive": 55,
+  "price_too_expensive": 75
+}

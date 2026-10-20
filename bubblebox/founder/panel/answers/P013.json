@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Edredom não cabe na máquina de casa, então lavar e secar tudo num dia só por R$ 42 resolve. Como fico no Centro de qualquer jeito, testaria uma vez num dia de folga.",
+  "objection": "Estacionar no Centro é complicado, e não sei se vou ter vaga perto ou se vale a ida só pra isso.",
+  "would_change_my_mind": "Saber que tem vaga ou estacionamento fácil por perto, e poder ver a máquina livre e o tempo de espera pelo WhatsApp.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}

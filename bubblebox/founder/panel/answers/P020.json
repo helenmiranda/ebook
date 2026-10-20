@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 por um edredom eu comparo com a tia/diarista ou lavar em casa, e sai mais caro. Poderia valer uma vez ou outra, mas não viro cliente num mês normal.",
+  "objection": "Estacionar no Centro é complicado, e carregar edredom até lá, esperar e pagar R$ 42 não compensa frente a alternativas mais baratas.",
+  "would_change_my_mind": "Preço do ciclo completo perto de R$ 30 e vaga de estacionamento fácil ou garantida perto do Bistek.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 38,
+  "price_too_expensive": 55
+}

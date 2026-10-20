@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 1,
+  "reason_code": "convenience",
+  "reason": "Edredom nao cabe na minha maquina e eu so tenho tempo de noite, entao abrir ate 1h e poder deixar lavando enquanto passo no Bistek resolve. Vou testar uma vez com o edredom, so uma vez por mes no maximo.",
+  "objection": "Tenho medo de errar na maquina e estragar o edredom ou perder dinheiro sem ninguem para me ajudar de madrugada.",
+  "would_change_my_mind": "Ver que o passo a passo funciona de verdade e que tem alguem ou um atendimento para ajudar se a maquina travar.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}
