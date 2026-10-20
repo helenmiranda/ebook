@@ -1,0 +1,13 @@
+{
+  "id": "P018",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "convenience",
+  "reason": "Estacionar no Centro já é complicado, e ainda ia ter que carregar a roupa da semana toda e ficar esperando lá. R$ 42 por semana dá uns R$ 170 por mês, é muito pra mim.",
+  "objection": "Estacionar no Centro e carregar saco de roupa até lá, mais R$ 42 toda semana. Não vi nada que diga que vale esse preço.",
+  "would_change_my_mind": "Estacionamento ou vaga fácil na porta, e um preço de ciclo completo mais perto de R$ 30, ou avaliações boas no Google de gente que já foi.",
+  "price_too_cheap": 10,
+  "price_cheap": 22,
+  "price_expensive": 34,
+  "price_too_expensive": 45
+}

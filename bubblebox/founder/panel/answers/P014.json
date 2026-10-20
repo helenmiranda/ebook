@@ -1,0 +1,13 @@
+{
+  "id": "P014",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "timing",
+  "reason": "Eu so tenho tempo de madrugada ou bem tarde, e abrir ate 1h resolve. Para cobertor e edredom, que nao cabem em casa, eu iria de vez em quando.",
+  "objection": "Nao sei usar lavanderia self service e tenho medo de errar e estragar a roupa ou perder dinheiro. R$ 42 por ciclo tambem pesa para quem lava sozinho.",
+  "would_change_my_mind": "Instrucoes bem claras na parede ou no celular, ou alguem para me ajudar na primeira vez.",
+  "price_too_cheap": 12,
+  "price_cheap": 28,
+  "price_expensive": 45,
+  "price_too_expensive": 60
+}

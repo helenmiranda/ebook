@@ -1,0 +1,13 @@
+{
+  "id": "P019",
+  "buys": true,
+  "purchases_first_month": 2,
+  "reason_code": "need",
+  "reason": "Moro sozinho num apartamento pequeno sem área de serviço, então preciso de algum lugar pra lavar. Se der pra deixar rodando enquanto faço mercado ali perto, aproveito o tempo e eu mesmo cuido da roupa.",
+  "objection": "Tenho medo de a roupa sumir ou ser trocada enquanto espero, e R$ 42 por ciclo completo pesa se eu for toda semana.",
+  "would_change_my_mind": "Ver o lugar com câmeras e movimento de gente, e saber que posso ficar de olho nas máquinas enquanto lavo; um preço menor por ciclo também ajudaria.",
+  "price_too_cheap": 12,
+  "price_cheap": 25,
+  "price_expensive": 38,
+  "price_too_expensive": 55
+}

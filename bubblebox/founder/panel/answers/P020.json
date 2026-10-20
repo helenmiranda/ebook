@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "R$ 42 por ciclo eu faço a conta e não fecha: a tia/diarista ou lavar em casa sai bem mais barato, e estacionar no Centro já é um problema. Pro dia a dia não compensa; talvez um edredom uma vez, mas não vou me comprometer.",
+  "objection": "R$ 42 só pra lavar e secar uma leva é caro perto de lavar em casa ou pagar a tia, e ainda tem a dor de cabeça de estacionar no Centro.",
+  "would_change_my_mind": "Ciclo completo perto de R$ 28-30, ou um preço fechado para edredom/cobertor grande que fosse bem menos que o das peças normais, e saber que tem vaga ou estacionamento fácil por perto.",
+  "price_too_cheap": 12,
+  "price_cheap": 22,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": true,
+  "purchases_first_month": 3,
+  "reason_code": "convenience",
+  "reason": "Eu junto a roupa da semana e quero resolver tudo de uma vez, e como trabalho no Centro dá pra lavar e secar ali sem ter máquina em casa. Aberta até 1h e com sabão incluso facilita a minha vida.",
+  "objection": "Estacionar no Centro é complicado, e eu não sei se vou achar vaga perto ou se vou ter que pagar estacionamento só pra lavar roupa. Além disso R$ 42 por ciclo pesa se eu for toda semana.",
+  "would_change_my_mind": "Saber que tem vaga ou estacionamento fácil perto, e poder pedir/avisar pelo WhatsApp pra ver se tem máquina livre antes de ir.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 50,
+  "price_too_expensive": 70
+}
