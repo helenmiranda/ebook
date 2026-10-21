@@ -35,7 +35,7 @@ Valor ao cliente 1 a 5; custo para entregar 1 a 5 (estimativa; o CFO ainda não 
 | 3, 4 | Passo a passo "primeira vez" em cartaz/QR e vídeo de 60 s, sem custo recorrente | 5 | 1 |
 | 4, 14 | Garantia de ciclo: se a máquina falhar ou engolir o pagamento, devolvemos o ciclo ou o valor, é só mandar mensagem | 5 | 2 |
 | 6, 13 | Garantia do edredom: seca em um ciclo; se não secar, o ciclo seguinte é por nossa conta | 5 | 2 |
-| 5 | Pedir avaliação no Google na saída (QR); mostrar as avaliações reais nas redes | 4 | 1 |
+| 5 | Pedir avaliação no Google na saída (QR); mostrar nas redes as avaliações de clientes de verdade | 4 | 1 |
 | 9 | Câmeras visíveis e aviso "você pode ficar vendo as máquinas" (só se já existirem) | 4 | 1 |
 | 7 | Mapa de onde parar perto (pontos que o franqueado conferir) | 3 | 1 |
 | 11, 12 | Aviso por WhatsApp de ciclo pronto e de máquina livre (só se o sistema da franquia permitir) | 4 | 3 |
@@ -57,7 +57,7 @@ Cortado por custo/valor ruim: lavar para o cliente (serviço de entrega), preço
 
 **Garantia:** ciclo refeito ou devolvido se a máquina falhar ou o edredom não secar em um ciclo. Custo = ciclos perdidos x taxa de reclamação; precisa ser modelado com o CFO antes de prometer.
 
-**Urgência:** só a verdadeira, por exemplo "preço de abertura do pacote até <data real>". Sem contagem falsa.
+**Urgência:** só a verdadeira, por exemplo "preço de abertura do pacote até <data definida>". Sem contagem falsa.
 
 ## 4. Valor, antes e depois (1 a 10)
 
