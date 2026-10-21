@@ -46,7 +46,7 @@ O preço de R$ 42 não foi retestado contra o custo por ciclo. Rode o `/founder-
 | Recusam por confiança | 4 | 4 | 2 |
 
 - A v3 subiu a taxa de compra e recuperou as compras totais, sem prometer nada que não exista. Câmeras e produtos concentrados parecem pesar mais que garantia e pacote da v2.
-- Confiança caiu de 4 para 2 recusas. Ainda recusam quem "quer ver antes se funciona" (P006) e quem desconfia de máquina em geral: só avaliações e clientes reais resolvem.
+- Confiança caiu de 4 para 2 recusas. Ainda recusam quem "quer ver antes se funciona" (P006) e quem desconfia de máquina em geral: só avaliações de clientes de verdade resolvem.
 - Preço voltou a aparecer (2 recusas), porque o pacote saiu. O preço de ciclo que o painel mais citou como ponto de virada foi R$ 25 a 30.
 - Quase todo mundo ainda compra uma vez só, para testar o edredom. Falta um motivo para voltar.
 - Estacionamento no Centro continua como objeção em vários perfis.
